@@ -169,8 +169,8 @@ ROUTE_NAME_OVERRIDES: dict[str, list[str] | None] = {
     # California Street Cable Car: keep an explicit invariant even if its
     # public long name gains/removes a service qualifier in a future GTFS feed.
     "CA": ["California Street"],
-    # "49": ["Van Ness Avenue", "Mission Street"],
-    # "F": ["Market Street", "The Embarcadero"],
+    "49": ["Van Ness Avenue", "Mission Street"],
+    "F": ["Market Street", "The Embarcadero"],
 }
 
 # Section placement only. These routes STILL go through normal street matching.
