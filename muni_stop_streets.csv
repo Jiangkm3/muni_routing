@@ -1,0 +1,3463 @@
+route_id,street,stop_share_pct,route_short_name,route_long_name,route_type,route_type_label,aggregation
+1,Sacramento Street,36.565,1,CALIFORNIA,3,bus,scheduled
+1,California Street,36.473,1,CALIFORNIA,3,bus,scheduled
+1,Clay Street,22.432,1,CALIFORNIA,3,bus,scheduled
+1,32nd Avenue,3.765,1,CALIFORNIA,3,bus,scheduled
+1,Presidio Avenue,3.246,1,CALIFORNIA,3,bus,scheduled
+1,Baker Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Buchanan Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Divisadero Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Drumm Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Fillmore Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Franklin Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Gough Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Grant Avenue,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Hyde Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Jones Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Kearny Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Laguna Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Larkin Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Leavenworth Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Montgomery Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Octavia Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Pierce Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Polk Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Powell Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Sansome Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Steiner Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Stockton Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Van Ness Avenue,2.465,1,CALIFORNIA,3,bus,scheduled
+1,Webster Street,2.465,1,CALIFORNIA,3,bus,scheduled
+1,33rd Avenue,2.275,1,CALIFORNIA,3,bus,scheduled
+1,Clement Street,2.275,1,CALIFORNIA,3,bus,scheduled
+1,Geary Boulevard,2.255,1,CALIFORNIA,3,bus,scheduled
+1,10th Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,12th Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,16th Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,19th Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,22nd Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,25th Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,28th Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,30th Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,4th Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,6th Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,8th Avenue,1.51,1,CALIFORNIA,3,bus,scheduled
+1,Arguello Boulevard,1.51,1,CALIFORNIA,3,bus,scheduled
+1,Cherry Street,1.51,1,CALIFORNIA,3,bus,scheduled
+1,Laurel Street,1.51,1,CALIFORNIA,3,bus,scheduled
+1,Park Presidio Boulevard,1.51,1,CALIFORNIA,3,bus,scheduled
+1,Spruce Street,1.51,1,CALIFORNIA,3,bus,scheduled
+1,Front Street,1.248,1,CALIFORNIA,3,bus,scheduled
+1,Mason Street,1.248,1,CALIFORNIA,3,bus,scheduled
+1,Taylor Street,1.248,1,CALIFORNIA,3,bus,scheduled
+1,Battery Street,1.217,1,CALIFORNIA,3,bus,scheduled
+1,Davis Street,1.217,1,CALIFORNIA,3,bus,scheduled
+1,Sproule Lane,1.217,1,CALIFORNIA,3,bus,scheduled
+12,Pacific Avenue,35.94,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Folsom Street,22.128,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Sansome Street,9.769,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Broadway,6.393,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Harrison Street,6.069,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Van Ness Avenue,5.529,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Sacramento Street,4.974,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Main Street,4.93,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Jackson Street,4.855,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Clay Street,4.795,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Spear Street,4.795,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Cesar Chavez Street,4.768,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Mission Street,3.653,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Davis Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Hyde Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Jones Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Larkin Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Leavenworth Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Market Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Mason Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Montgomery Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Polk Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Powell Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Stockton Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Taylor Street,3.256,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Howard Street,2.582,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,11th Street,2.039,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Battery Street,1.658,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,California Street,1.658,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Drumm Street,1.658,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Grant Avenue,1.658,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Kearny Street,1.658,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Washington Street,1.658,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Columbus Avenue,1.598,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Front Street,1.598,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,14th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,16th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,18th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,22nd Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,24th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,25th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,2nd Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,3rd Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,4th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,5th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,6th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,7th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,8th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,9th Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Valencia Street,1.364,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,1st Street,0.69,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,20th Street,0.69,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Power Street,0.69,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,20st,0.674,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Beale Street,0.674,12,FOLSOM-PACIFIC,3,bus,scheduled
+12,Essex Street,0.674,12,FOLSOM-PACIFIC,3,bus,scheduled
+14,Mission Street,94.587,14,MISSION,3,bus,scheduled
+14,Steuart Street,3.252,14,MISSION,3,bus,scheduled
+14,30th Street,2.3,14,MISSION,3,bus,scheduled
+14,Appleton Avenue,2.3,14,MISSION,3,bus,scheduled
+14,Cortland Avenue,2.3,14,MISSION,3,bus,scheduled
+14,Geneva Avenue,2.3,14,MISSION,3,bus,scheduled
+14,Highland Avenue,2.3,14,MISSION,3,bus,scheduled
+14,Italy Avenue,2.3,14,MISSION,3,bus,scheduled
+14,Lowell Street,2.3,14,MISSION,3,bus,scheduled
+14,Richland Avenue,2.3,14,MISSION,3,bus,scheduled
+14,San Jose Avenue,2.3,14,MISSION,3,bus,scheduled
+14,Silver Avenue,2.3,14,MISSION,3,bus,scheduled
+14,Trumbull Street,2.3,14,MISSION,3,bus,scheduled
+14,Whittier Street,2.3,14,MISSION,3,bus,scheduled
+14,Market Street,2.208,14,MISSION,3,bus,scheduled
+14,11th Street,2.148,14,MISSION,3,bus,scheduled
+14,14th Street,2.148,14,MISSION,3,bus,scheduled
+14,16th Street,2.148,14,MISSION,3,bus,scheduled
+14,18th Street,2.148,14,MISSION,3,bus,scheduled
+14,20th Street,2.148,14,MISSION,3,bus,scheduled
+14,22nd Street,2.148,14,MISSION,3,bus,scheduled
+14,24th Street,2.148,14,MISSION,3,bus,scheduled
+14,26th Street,2.148,14,MISSION,3,bus,scheduled
+14,2nd Street,2.148,14,MISSION,3,bus,scheduled
+14,3rd Street,2.148,14,MISSION,3,bus,scheduled
+14,4th Street,2.148,14,MISSION,3,bus,scheduled
+14,5th Street,2.148,14,MISSION,3,bus,scheduled
+14,6th Street,2.148,14,MISSION,3,bus,scheduled
+14,7th Street,2.148,14,MISSION,3,bus,scheduled
+14,8th Street,2.148,14,MISSION,3,bus,scheduled
+14,9th Street,2.148,14,MISSION,3,bus,scheduled
+14,Persia Street,1.195,14,MISSION,3,bus,scheduled
+14,Acton Street,1.182,14,MISSION,3,bus,scheduled
+14,Allison Street,1.182,14,MISSION,3,bus,scheduled
+14,Evergreen Street,1.182,14,MISSION,3,bus,scheduled
+14,Excelsior Avenue,1.182,14,MISSION,3,bus,scheduled
+14,Guttenberg Street,1.182,14,MISSION,3,bus,scheduled
+14,Murray Street,1.182,14,MISSION,3,bus,scheduled
+14,Oliver Street,1.182,14,MISSION,3,bus,scheduled
+14,Persia Avenue,1.182,14,MISSION,3,bus,scheduled
+14,Russia Avenue,1.182,14,MISSION,3,bus,scheduled
+14,4080 Mission Street,1.118,14,MISSION,3,bus,scheduled
+14,Bosworth Street,1.118,14,MISSION,3,bus,scheduled
+14,Flournoy Street,1.118,14,MISSION,3,bus,scheduled
+14,Foote Avenue,1.118,14,MISSION,3,bus,scheduled
+14,Francis Street,1.118,14,MISSION,3,bus,scheduled
+14,Goethe Street,1.118,14,MISSION,3,bus,scheduled
+14,Lawrence Avenue,1.118,14,MISSION,3,bus,scheduled
+14,Mt Vernon Avenue,1.118,14,MISSION,3,bus,scheduled
+14,Onondaga Avenue,1.118,14,MISSION,3,bus,scheduled
+14,Sickles Avenue,1.118,14,MISSION,3,bus,scheduled
+14,13th Street,1.104,14,MISSION,3,bus,scheduled
+14,Fremont Street,1.104,14,MISSION,3,bus,scheduled
+14,Main Street,1.104,14,MISSION,3,bus,scheduled
+14,Power Street,1.104,14,MISSION,3,bus,scheduled
+14,Van Ness Avenue,1.104,14,MISSION,3,bus,scheduled
+14,12th Street,1.043,14,MISSION,3,bus,scheduled
+14,1st Street,1.043,14,MISSION,3,bus,scheduled
+14,Beale Street,1.043,14,MISSION,3,bus,scheduled
+14,Mccoppin Street,1.043,14,MISSION,3,bus,scheduled
+14,Otis,1.043,14,MISSION,3,bus,scheduled
+14,Otis Street,1.043,14,MISSION,3,bus,scheduled
+14,Spear Street,1.043,14,MISSION,3,bus,scheduled
+14,Valencia Street,1.043,14,MISSION,3,bus,scheduled
+14R,Mission Street,91.769,14R,MISSION RAPID,3,bus,scheduled
+14R,Main Street,6.253,14R,MISSION RAPID,3,bus,scheduled
+14R,Lowell Street,4.806,14R,MISSION RAPID,3,bus,scheduled
+14R,11th Street,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,16th Street,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,20th Street,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,24th Street,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,2nd Street,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,30th Street,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,3rd Street,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,4th Street,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,5th Street,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,8th Street,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,Geneva Avenue,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,Richland Avenue,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,Silver Avenue,4.437,14R,MISSION RAPID,3,bus,scheduled
+14R,Market Street,4.251,14R,MISSION RAPID,3,bus,scheduled
+14R,Steuart Street,4.251,14R,MISSION RAPID,3,bus,scheduled
+14R,[UNKNOWN],3.611,14R,MISSION RAPID,3,bus,scheduled
+14R,1st Street,2.312,14R,MISSION RAPID,3,bus,scheduled
+14R,Beale Street,2.312,14R,MISSION RAPID,3,bus,scheduled
+14R,Flournoy Street,2.312,14R,MISSION RAPID,3,bus,scheduled
+14R,Goethe Street,2.312,14R,MISSION RAPID,3,bus,scheduled
+14R,Persia Street,2.312,14R,MISSION RAPID,3,bus,scheduled
+14R,Sickles Avenue,2.312,14R,MISSION RAPID,3,bus,scheduled
+14R,Fremont Street,2.125,14R,MISSION RAPID,3,bus,scheduled
+14R,Persia Avenue,2.125,14R,MISSION RAPID,3,bus,scheduled
+14R,Acton Street,1.757,14R,MISSION RAPID,3,bus,scheduled
+14R,Evergreen Street,1.757,14R,MISSION RAPID,3,bus,scheduled
+14R,Flournoy,1.757,14R,MISSION RAPID,3,bus,scheduled
+14R,Morse Street,0.369,14R,MISSION RAPID,3,bus,scheduled
+15,Ingalls Street,23.677,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Hudson Avenue,21.825,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,3rd Street,18.254,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Kiska Road,12.765,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Northridge Road,10.913,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Palou Avenue,10.913,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Dormitory Road,7.275,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Keith Street,7.275,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,4th Street,5.357,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,20th Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Cashmere Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Donahue Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Earl Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Evans Avenue,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Harbor Road,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Jerrold Avenue,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Kirkwood Avenue,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Lasalle Avenue,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Marin Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Mendell Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Mission Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Newhall Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Oakdale Avenue,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Reardon Road,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Sansome Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Sutter Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Third Street,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Whitney Young Circle,3.638,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Brannan Street,1.852,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Warriors Way,1.852,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Geary Boulevard,1.786,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Gene Friend Way,1.786,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Market Street,1.786,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Stockton Street,1.786,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+15,Townsend Street,1.786,15,BAYVIEW HUNTERS POINT EXPRESS,3,bus,scheduled
+18,46th Avenue,35.789,18,46TH AVENUE,3,bus,scheduled
+18,Balboa Street,13.842,18,46TH AVENUE,3,bus,scheduled
+18,33rd Avenue,9.296,18,46TH AVENUE,3,bus,scheduled
+18,Sloat Boulevard,8.045,18,46TH AVENUE,3,bus,scheduled
+18,45th Avenue,6.921,18,46TH AVENUE,3,bus,scheduled
+18,Cabrillo Street,6.921,18,46TH AVENUE,3,bus,scheduled
+18,Winston Drive,6.921,18,46TH AVENUE,3,bus,scheduled
+18,Lincoln Way,5.797,18,46TH AVENUE,3,bus,scheduled
+18,47th Avenue,5.738,18,46TH AVENUE,3,bus,scheduled
+18,Buckingham Way,4.614,18,46TH AVENUE,3,bus,scheduled
+18,La Playa Street,4.614,18,46TH AVENUE,3,bus,scheduled
+18,Lake Merced,4.614,18,46TH AVENUE,3,bus,scheduled
+18,Clement Street,4.396,18,46TH AVENUE,3,bus,scheduled
+18,[UNKNOWN],3.145,18,46TH AVENUE,3,bus,scheduled
+18,Geary Boulevard,2.484,18,46TH AVENUE,3,bus,scheduled
+18,19th Avenue,2.307,18,46TH AVENUE,3,bus,scheduled
+18,20th Avenue,2.307,18,46TH AVENUE,3,bus,scheduled
+18,37th Avenue,2.307,18,46TH AVENUE,3,bus,scheduled
+18,40th Avenue,2.307,18,46TH AVENUE,3,bus,scheduled
+18,41st Avenue,2.307,18,46TH AVENUE,3,bus,scheduled
+18,43rd Avenue,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Anza Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Fulton Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Great Hwy Near Beach Chalet,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Irving Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Judah Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Kirkham Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Lake Merced Boulevard,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Lakeshore,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Lawton Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Middlefield Drive,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Moraga Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Noriega Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Ortega Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Pacheco Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Quintara Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Rivera Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Santiago Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Skyline Boulevard,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Taraval Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Ulloa Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Vicente Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Wawona Street,2.307,18,46TH AVENUE,3,bus,scheduled
+18,Legion Of Honor Drive,2.198,18,46TH AVENUE,3,bus,scheduled
+18,34th Avenue,1.183,18,46TH AVENUE,3,bus,scheduled
+18,Martin Luther King Jr Drive,1.183,18,46TH AVENUE,3,bus,scheduled
+18,35th Avenue,1.124,18,46TH AVENUE,3,bus,scheduled
+18,Great Highway,1.124,18,46TH AVENUE,3,bus,scheduled
+19,Polk Street,16.924,19,POLK,3,bus,scheduled
+19,Rhode Island Street,15.72,19,POLK,3,bus,scheduled
+19,Evans Avenue,12.249,19,POLK,3,bus,scheduled
+19,Innes Avenue,8.462,19,POLK,3,bus,scheduled
+19,De Haro Street,8.053,19,POLK,3,bus,scheduled
+19,26th Street,6.043,19,POLK,3,bus,scheduled
+19,Larkin Street,5.879,19,POLK,3,bus,scheduled
+19,7th Street,5.797,19,POLK,3,bus,scheduled
+19,8th Street,5.645,19,POLK,3,bus,scheduled
+19,Connecticut Street,5.318,19,POLK,3,bus,scheduled
+19,25th Street,4.593,19,POLK,3,bus,scheduled
+19,Middle Point Road,4.593,19,POLK,3,bus,scheduled
+19,Hyde Street,3.144,19,POLK,3,bus,scheduled
+19,23rd Street,2.98,19,POLK,3,bus,scheduled
+19,Wisconsin Street,2.98,19,POLK,3,bus,scheduled
+19,Cesar Chavez Street,2.338,19,POLK,3,bus,scheduled
+19,Eddy Street,2.338,19,POLK,3,bus,scheduled
+19,16th Street,2.256,19,POLK,3,bus,scheduled
+19,Beach Street,2.256,19,POLK,3,bus,scheduled
+19,Market Street,2.256,19,POLK,3,bus,scheduled
+19,Kansas Street,2.174,19,POLK,3,bus,scheduled
+19,15th Street,1.531,19,POLK,3,bus,scheduled
+19,17th Street,1.531,19,POLK,3,bus,scheduled
+19,18th Street,1.531,19,POLK,3,bus,scheduled
+19,19th Street,1.531,19,POLK,3,bus,scheduled
+19,20th Street,1.531,19,POLK,3,bus,scheduled
+19,22nd Street,1.531,19,POLK,3,bus,scheduled
+19,Alameda Street,1.531,19,POLK,3,bus,scheduled
+19,Brannan Street,1.531,19,POLK,3,bus,scheduled
+19,Broadway,1.531,19,POLK,3,bus,scheduled
+19,Bryant Street,1.531,19,POLK,3,bus,scheduled
+19,Division Street,1.531,19,POLK,3,bus,scheduled
+19,Donahue Street,1.531,19,POLK,3,bus,scheduled
+19,Earl Street,1.531,19,POLK,3,bus,scheduled
+19,Folsom Street,1.531,19,POLK,3,bus,scheduled
+19,Francisco Street,1.531,19,POLK,3,bus,scheduled
+19,Galvez Avenue,1.531,19,POLK,3,bus,scheduled
+19,Griffith Street,1.531,19,POLK,3,bus,scheduled
+19,Grove Street,1.531,19,POLK,3,bus,scheduled
+19,Harrison Street,1.531,19,POLK,3,bus,scheduled
+19,Hill Avenue,1.531,19,POLK,3,bus,scheduled
+19,Hunters Point Boulevard,1.531,19,POLK,3,bus,scheduled
+19,Keith Street,1.531,19,POLK,3,bus,scheduled
+19,Lombard Street,1.531,19,POLK,3,bus,scheduled
+19,Mariposa Street,1.531,19,POLK,3,bus,scheduled
+19,Mcallister Street,1.531,19,POLK,3,bus,scheduled
+19,Mendell Street,1.531,19,POLK,3,bus,scheduled
+19,Mission Street,1.531,19,POLK,3,bus,scheduled
+19,North Point Street,1.531,19,POLK,3,bus,scheduled
+19,O'Farrell Street,1.531,19,POLK,3,bus,scheduled
+19,Phelps Street,1.531,19,POLK,3,bus,scheduled
+19,Pine Street,1.531,19,POLK,3,bus,scheduled
+19,Quint Street,1.531,19,POLK,3,bus,scheduled
+19,Sacramento Street,1.531,19,POLK,3,bus,scheduled
+19,Selby Street,1.531,19,POLK,3,bus,scheduled
+19,Southern Heights Avenue,1.531,19,POLK,3,bus,scheduled
+19,Union Street,1.531,19,POLK,3,bus,scheduled
+19,Washington Street,1.531,19,POLK,3,bus,scheduled
+19,Townsend Street,1.449,19,POLK,3,bus,scheduled
+19,1076 Rhode Island Street,0.806,19,POLK,3,bus,scheduled
+19,24th Street,0.806,19,POLK,3,bus,scheduled
+19,3rd Street,0.806,19,POLK,3,bus,scheduled
+19,Acacia,0.806,19,POLK,3,bus,scheduled
+19,Evans Ave Opposite Us Post Office,0.806,19,POLK,3,bus,scheduled
+19,Fair Fax Avenue,0.806,19,POLK,3,bus,scheduled
+19,Fitch Street,0.806,19,POLK,3,bus,scheduled
+19,Howard,0.806,19,POLK,3,bus,scheduled
+19,Middle Point,0.806,19,POLK,3,bus,scheduled
+19,Sutter Street,0.806,19,POLK,3,bus,scheduled
+19,Turk Street,0.806,19,POLK,3,bus,scheduled
+19,Acacia Avenue,0.725,19,POLK,3,bus,scheduled
+19,Arelious Walker Drive,0.725,19,POLK,3,bus,scheduled
+19,Fairfax Avenue,0.725,19,POLK,3,bus,scheduled
+19,Geary Boulevard,0.725,19,POLK,3,bus,scheduled
+19,Golden Gate Avenue,0.725,19,POLK,3,bus,scheduled
+19,Howard Street,0.725,19,POLK,3,bus,scheduled
+19,Marin Street,0.725,19,POLK,3,bus,scheduled
+19,Memory Lane,0.725,19,POLK,3,bus,scheduled
+19,Newhall Street,0.725,19,POLK,3,bus,scheduled
+19,Post Street,0.725,19,POLK,3,bus,scheduled
+19,Uspo,0.725,19,POLK,3,bus,scheduled
+19,[UNKNOWN],0.725,19,POLK,3,bus,scheduled
+1X,California Street,75.625,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,32nd Avenue,8.125,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,33rd Avenue,8.125,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Clement Street,8.125,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Pine Street,6.562,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,10th Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,12th Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,16th Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,19th Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,22nd Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,25th Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,28th Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,30th Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,4th Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,6th Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,8th Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Arguello Boulevard,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Battery Street,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Cherry Street,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Davis Street,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Geary Boulevard,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Laurel Street,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Montgomery Street,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Park Presidio Boulevard,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Presidio Avenue,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Spruce Street,4.062,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Sacramento Street,3.125,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Bush Street,2.5,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+1X,Sansome Street,2.5,1X,CALIFORNIA EXPRESS,3,bus,scheduled
+2,Sutter Street,54.735,2,SUTTER,3,bus,scheduled
+2,Post Street,25.105,2,SUTTER,3,bus,scheduled
+2,Market Street,11.151,2,SUTTER,3,bus,scheduled
+2,Presidio Avenue,9.009,2,SUTTER,3,bus,scheduled
+2,Laguna Street,5.648,2,SUTTER,3,bus,scheduled
+2,Steuart Street,5.503,2,SUTTER,3,bus,scheduled
+2,California Street,5.292,2,SUTTER,3,bus,scheduled
+2,Baker Street,3.717,2,SUTTER,3,bus,scheduled
+2,Buchanan Street,3.717,2,SUTTER,3,bus,scheduled
+2,Divisadero Street,3.717,2,SUTTER,3,bus,scheduled
+2,Fillmore Street,3.717,2,SUTTER,3,bus,scheduled
+2,Gough Street,3.717,2,SUTTER,3,bus,scheduled
+2,Hyde Street,3.717,2,SUTTER,3,bus,scheduled
+2,Jones Street,3.717,2,SUTTER,3,bus,scheduled
+2,Kearny Street,3.717,2,SUTTER,3,bus,scheduled
+2,Larkin Street,3.717,2,SUTTER,3,bus,scheduled
+2,Leavenworth Street,3.717,2,SUTTER,3,bus,scheduled
+2,Mission Street,3.717,2,SUTTER,3,bus,scheduled
+2,Octavia Street,3.717,2,SUTTER,3,bus,scheduled
+2,Polk Street,3.717,2,SUTTER,3,bus,scheduled
+2,Powell Street,3.717,2,SUTTER,3,bus,scheduled
+2,Scott Street,3.717,2,SUTTER,3,bus,scheduled
+2,Steiner Street,3.717,2,SUTTER,3,bus,scheduled
+2,Taylor Street,3.717,2,SUTTER,3,bus,scheduled
+2,Van Ness Avenue,3.717,2,SUTTER,3,bus,scheduled
+2,1st Street,1.931,2,SUTTER,3,bus,scheduled
+2,Beale Street,1.931,2,SUTTER,3,bus,scheduled
+2,Grant Avenue,1.931,2,SUTTER,3,bus,scheduled
+2,Spear Street,1.931,2,SUTTER,3,bus,scheduled
+2,Drumm Street,1.786,2,SUTTER,3,bus,scheduled
+2,Front Street,1.786,2,SUTTER,3,bus,scheduled
+2,Mason Street,1.786,2,SUTTER,3,bus,scheduled
+2,Sansome Street,1.786,2,SUTTER,3,bus,scheduled
+2,Stockton Street,1.786,2,SUTTER,3,bus,scheduled
+22,Fillmore Street,50.713,22,FILLMORE,3,bus,scheduled
+22,16th Street,27.262,22,FILLMORE,3,bus,scheduled
+22,Steiner Street,10.183,22,FILLMORE,3,bus,scheduled
+22,Church Street,7.111,22,FILLMORE,3,bus,scheduled
+22,Broadway,5.091,22,FILLMORE,3,bus,scheduled
+22,Union Street,5.091,22,FILLMORE,3,bus,scheduled
+22,4th Street,4.735,22,FILLMORE,3,bus,scheduled
+22,Bay Street,2.546,22,FILLMORE,3,bus,scheduled
+22,Chestnut Street,2.546,22,FILLMORE,3,bus,scheduled
+22,Green Street,2.546,22,FILLMORE,3,bus,scheduled
+22,Jackson Street,2.546,22,FILLMORE,3,bus,scheduled
+22,Lombard Street,2.546,22,FILLMORE,3,bus,scheduled
+22,Vallejo Street,2.546,22,FILLMORE,3,bus,scheduled
+22,Sutter Street,2.537,22,FILLMORE,3,bus,scheduled
+22,Duboce Avenue,2.37,22,FILLMORE,3,bus,scheduled
+22,Eddy Street,2.37,22,FILLMORE,3,bus,scheduled
+22,Geary Boulevard,2.37,22,FILLMORE,3,bus,scheduled
+22,Grove Street,2.37,22,FILLMORE,3,bus,scheduled
+22,Haight Street,2.37,22,FILLMORE,3,bus,scheduled
+22,Hayes Street,2.37,22,FILLMORE,3,bus,scheduled
+22,Hermann Street,2.37,22,FILLMORE,3,bus,scheduled
+22,Market Street,2.37,22,FILLMORE,3,bus,scheduled
+22,Mcallister Street,2.37,22,FILLMORE,3,bus,scheduled
+22,O'Farrell Street,2.37,22,FILLMORE,3,bus,scheduled
+22,Oak Street,2.37,22,FILLMORE,3,bus,scheduled
+22,3rd Street,2.367,22,FILLMORE,3,bus,scheduled
+22,Bryant Street,2.367,22,FILLMORE,3,bus,scheduled
+22,Dolores Street,2.367,22,FILLMORE,3,bus,scheduled
+22,Mission Bay North,2.367,22,FILLMORE,3,bus,scheduled
+22,Mission Street,2.367,22,FILLMORE,3,bus,scheduled
+22,Missouri Street,2.367,22,FILLMORE,3,bus,scheduled
+22,Owen Street,2.367,22,FILLMORE,3,bus,scheduled
+22,Potrero Avenue,2.367,22,FILLMORE,3,bus,scheduled
+22,Valencia Street,2.367,22,FILLMORE,3,bus,scheduled
+22,Wisconsin Street,2.367,22,FILLMORE,3,bus,scheduled
+22,Pine Street,2.255,22,FILLMORE,3,bus,scheduled
+22,Sacramento Street,2.255,22,FILLMORE,3,bus,scheduled
+22,Golden Gate Avenue,1.222,22,FILLMORE,3,bus,scheduled
+22,4th St Se-Fs/ Bz,1.219,22,FILLMORE,3,bus,scheduled
+22,Folsom Street,1.219,22,FILLMORE,3,bus,scheduled
+22,Gene Friend Way,1.219,22,FILLMORE,3,bus,scheduled
+22,Mission Bay South,1.219,22,FILLMORE,3,bus,scheduled
+22,Rhode Island Street,1.219,22,FILLMORE,3,bus,scheduled
+22,Beach Street,1.172,22,FILLMORE,3,bus,scheduled
+22,Cervantes Boulevard,1.172,22,FILLMORE,3,bus,scheduled
+22,Jefferson Street,1.172,22,FILLMORE,3,bus,scheduled
+22,North Point Street,1.172,22,FILLMORE,3,bus,scheduled
+22,16th St& Rhode Island Street,1.148,22,FILLMORE,3,bus,scheduled
+22,Shotwell Street,1.148,22,FILLMORE,3,bus,scheduled
+22,Turk Street,1.148,22,FILLMORE,3,bus,scheduled
+22,Warriors Way,1.148,22,FILLMORE,3,bus,scheduled
+23,Sloat Boulevard,24.228,23,MONTEREY,3,bus,scheduled
+23,Monterey Boulevard,22.827,23,MONTEREY,3,bus,scheduled
+23,Palou Avenue,18.493,23,MONTEREY,3,bus,scheduled
+23,Crescent Avenue,13.474,23,MONTEREY,3,bus,scheduled
+23,Bosworth Street,5.99,23,MONTEREY,3,bus,scheduled
+23,Oakdale Avenue,5.839,23,MONTEREY,3,bus,scheduled
+23,Saint Francis Boulevard,5.033,23,MONTEREY,3,bus,scheduled
+23,Bayshore Boulevard,3.369,23,MONTEREY,3,bus,scheduled
+23,Mission Street,2.622,23,MONTEREY,3,bus,scheduled
+23,3rd Street,2.584,23,MONTEREY,3,bus,scheduled
+23,Ingalls Street,2.47,23,MONTEREY,3,bus,scheduled
+23,47th Avenue,2.418,23,MONTEREY,3,bus,scheduled
+23,Santa Clara Avenue,2.418,23,MONTEREY,3,bus,scheduled
+23,Andover Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Baden Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Congo Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Cortland Avenue,1.684,23,MONTEREY,3,bus,scheduled
+23,Detroit Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Diamond Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Edna Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Foerster Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Folsom Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Gennessee Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Milton Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Murray Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Newhall Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Phelps Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Plymouth Avenue,1.684,23,MONTEREY,3,bus,scheduled
+23,Putnam Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Quint Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Rankin Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Ridgewood Avenue,1.684,23,MONTEREY,3,bus,scheduled
+23,Toland Street,1.684,23,MONTEREY,3,bus,scheduled
+23,Valdez Avenue,1.684,23,MONTEREY,3,bus,scheduled
+23,19th Avenue,1.678,23,MONTEREY,3,bus,scheduled
+23,21st Avenue,1.678,23,MONTEREY,3,bus,scheduled
+23,36th Avenue,1.678,23,MONTEREY,3,bus,scheduled
+23,41st Avenue,1.678,23,MONTEREY,3,bus,scheduled
+23,45th Avenue,1.678,23,MONTEREY,3,bus,scheduled
+23,San Fernando Way,1.678,23,MONTEREY,3,bus,scheduled
+23,Santa Ana Avenue,1.678,23,MONTEREY,3,bus,scheduled
+23,West Portal Avenue,1.678,23,MONTEREY,3,bus,scheduled
+23,Jennings Street,1.647,23,MONTEREY,3,bus,scheduled
+23,Keith Street,1.647,23,MONTEREY,3,bus,scheduled
+23,Lane Street,1.647,23,MONTEREY,3,bus,scheduled
+23,34th Avenue,0.938,23,MONTEREY,3,bus,scheduled
+23,39th Avenue,0.938,23,MONTEREY,3,bus,scheduled
+23,Acadia Street,0.938,23,MONTEREY,3,bus,scheduled
+23,Alemany Boulevard,0.938,23,MONTEREY,3,bus,scheduled
+23,Anderson Street,0.938,23,MONTEREY,3,bus,scheduled
+23,Constanso Way,0.938,23,MONTEREY,3,bus,scheduled
+23,Crestlake Drive,0.938,23,MONTEREY,3,bus,scheduled
+23,El Mirasol Place,0.938,23,MONTEREY,3,bus,scheduled
+23,El Verano Way,0.938,23,MONTEREY,3,bus,scheduled
+23,Industrial Street,0.938,23,MONTEREY,3,bus,scheduled
+23,Leese Street,0.938,23,MONTEREY,3,bus,scheduled
+23,Loomis Street,0.938,23,MONTEREY,3,bus,scheduled
+23,Paraiso Place,0.938,23,MONTEREY,3,bus,scheduled
+23,Roscoe Street,0.938,23,MONTEREY,3,bus,scheduled
+23,Rotteck Street,0.938,23,MONTEREY,3,bus,scheduled
+23,Saint Elmo Waye,0.938,23,MONTEREY,3,bus,scheduled
+23,San Anselmo Avenue,0.938,23,MONTEREY,3,bus,scheduled
+23,San Jacinto Way,0.938,23,MONTEREY,3,bus,scheduled
+23,Vale Avenue,0.938,23,MONTEREY,3,bus,scheduled
+23,Baldwin Court,0.823,23,MONTEREY,3,bus,scheduled
+23,Crisp Road,0.823,23,MONTEREY,3,bus,scheduled
+23,Griffith Street,0.823,23,MONTEREY,3,bus,scheduled
+23,Hawes Street,0.823,23,MONTEREY,3,bus,scheduled
+23,Agnon Avenue,0.747,23,MONTEREY,3,bus,scheduled
+23,Arnold Avenue,0.747,23,MONTEREY,3,bus,scheduled
+23,Barneveld Avenue,0.747,23,MONTEREY,3,bus,scheduled
+23,College Avenue,0.747,23,MONTEREY,3,bus,scheduled
+23,Ellsworth Street,0.747,23,MONTEREY,3,bus,scheduled
+23,Faxon Avenue,0.747,23,MONTEREY,3,bus,scheduled
+23,Flower Street,0.747,23,MONTEREY,3,bus,scheduled
+23,Marsily Street,0.747,23,MONTEREY,3,bus,scheduled
+23,Northgate Drive,0.747,23,MONTEREY,3,bus,scheduled
+23,Porter Street,0.747,23,MONTEREY,3,bus,scheduled
+23,San Aleso Avenue,0.747,23,MONTEREY,3,bus,scheduled
+23,23rd Avenue,0.74,23,MONTEREY,3,bus,scheduled
+23,26th Avenue,0.74,23,MONTEREY,3,bus,scheduled
+23,Clearfield Drive,0.74,23,MONTEREY,3,bus,scheduled
+23,Everglade Drive,0.74,23,MONTEREY,3,bus,scheduled
+23,Forest View Drive,0.74,23,MONTEREY,3,bus,scheduled
+23,Skyline Boulevard,0.74,23,MONTEREY,3,bus,scheduled
+23,Sylvan Drive,0.74,23,MONTEREY,3,bus,scheduled
+24,Castro Street,26.896,24,DIVISADERO,3,bus,scheduled
+24,Divisadero Street,18.703,24,DIVISADERO,3,bus,scheduled
+24,Cortland Avenue,18.04,24,DIVISADERO,3,bus,scheduled
+24,Palou Avenue,9.454,24,DIVISADERO,3,bus,scheduled
+24,30th Street,8.965,24,DIVISADERO,3,bus,scheduled
+24,Noe Street,8.965,24,DIVISADERO,3,bus,scheduled
+24,Jackson Street,6.95,24,DIVISADERO,3,bus,scheduled
+24,Industrial Street,4.727,24,DIVISADERO,3,bus,scheduled
+24,26th Street,3.586,24,DIVISADERO,3,bus,scheduled
+24,Mission Street,3.586,24,DIVISADERO,3,bus,scheduled
+24,Newhall Street,3.128,24,DIVISADERO,3,bus,scheduled
+24,Webster Street,2.105,24,DIVISADERO,3,bus,scheduled
+24,14th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,15th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,16th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,18th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,19th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,20th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,21st Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,22nd Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,23rd Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,24th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,25th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,27th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,28th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,29th Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Andover Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Bayshore Boulevard,1.793,24,DIVISADERO,3,bus,scheduled
+24,Bocana Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Church Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Dolores Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Duboce Avenue,1.793,24,DIVISADERO,3,bus,scheduled
+24,Eddy Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Elizabeth Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Ellsworth Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Elsie Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Folsom Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Geary Boulevard,1.793,24,DIVISADERO,3,bus,scheduled
+24,Haight Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Hayes Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Mcallister Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Oak Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Prentiss Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Prospect Avenue,1.793,24,DIVISADERO,3,bus,scheduled
+24,Sanchez Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,Sutter Street,1.793,24,DIVISADERO,3,bus,scheduled
+24,3rd Street,1.576,24,DIVISADERO,3,bus,scheduled
+24,Bay Shore Boulevard,1.576,24,DIVISADERO,3,bus,scheduled
+24,Phelps Street,1.576,24,DIVISADERO,3,bus,scheduled
+24,Quint Street,1.576,24,DIVISADERO,3,bus,scheduled
+24,Rankin Street,1.576,24,DIVISADERO,3,bus,scheduled
+24,California Street,1.538,24,DIVISADERO,3,bus,scheduled
+24,Clay Street,1.538,24,DIVISADERO,3,bus,scheduled
+24,Scott Street,1.538,24,DIVISADERO,3,bus,scheduled
+24,Steiner Street,1.538,24,DIVISADERO,3,bus,scheduled
+24,Bronte Street,0.908,24,DIVISADERO,3,bus,scheduled
+24,Market Street,0.908,24,DIVISADERO,3,bus,scheduled
+24,17th Street,0.885,24,DIVISADERO,3,bus,scheduled
+24,Bradford Street,0.885,24,DIVISADERO,3,bus,scheduled
+24,Fillmore Street,0.884,24,DIVISADERO,3,bus,scheduled
+24,Elmira Street,0.8,24,DIVISADERO,3,bus,scheduled
+24,Pine Street,0.798,24,DIVISADERO,3,bus,scheduled
+24,Newcomb Avenue,0.776,24,DIVISADERO,3,bus,scheduled
+24,Oakdale Avenue,0.776,24,DIVISADERO,3,bus,scheduled
+24,Revere Avenue,0.776,24,DIVISADERO,3,bus,scheduled
+24,Bush Street,0.74,24,DIVISADERO,3,bus,scheduled
+24,Washington Street,0.654,24,DIVISADERO,3,bus,scheduled
+24,Hilton Street,0.109,24,DIVISADERO,3,bus,scheduled
+25,[UNKNOWN],30.926,25,TREASURE ISLAND,3,bus,scheduled
+25,Clipper Cove Way,28.333,25,TREASURE ISLAND,3,bus,scheduled
+25,Treasure Island Road,28.333,25,TREASURE ISLAND,3,bus,scheduled
+25,Gateview Avenue,13.333,25,TREASURE ISLAND,3,bus,scheduled
+25,Seven Seas Avenue,10.0,25,TREASURE ISLAND,3,bus,scheduled
+25,9th Street,6.667,25,TREASURE ISLAND,3,bus,scheduled
+25,Avenue B,6.667,25,TREASURE ISLAND,3,bus,scheduled
+25,Avenue H,6.667,25,TREASURE ISLAND,3,bus,scheduled
+25,Bruton Street,6.667,25,TREASURE ISLAND,3,bus,scheduled
+25,13th Street,3.333,25,TREASURE ISLAND,3,bus,scheduled
+25,9th Avenue,3.333,25,TREASURE ISLAND,3,bus,scheduled
+25,Avenue D,3.333,25,TREASURE ISLAND,3,bus,scheduled
+25,Bayside Drive,3.333,25,TREASURE ISLAND,3,bus,scheduled
+25,Johnson Street,3.333,25,TREASURE ISLAND,3,bus,scheduled
+25,Mason Court,3.333,25,TREASURE ISLAND,3,bus,scheduled
+25,Northpoint Drive,3.333,25,TREASURE ISLAND,3,bus,scheduled
+25,Shoreline Access Road,3.333,25,TREASURE ISLAND,3,bus,scheduled
+25,Fremont Street,0.74,25,TREASURE ISLAND,3,bus,scheduled
+25,Mission Street,0.74,25,TREASURE ISLAND,3,bus,scheduled
+27,Bryant Street,28.238,27,BRYANT,3,bus,scheduled
+27,Leavenworth Street,14.008,27,BRYANT,3,bus,scheduled
+27,Folsom Street,12.909,27,BRYANT,3,bus,scheduled
+27,Jones Street,8.314,27,BRYANT,3,bus,scheduled
+27,Cesar Chavez Street,8.203,27,BRYANT,3,bus,scheduled
+27,Hyde Street,7.104,27,BRYANT,3,bus,scheduled
+27,8th Street,5.916,27,BRYANT,3,bus,scheduled
+27,24th Street,5.872,27,BRYANT,3,bus,scheduled
+27,Mission Street,5.872,27,BRYANT,3,bus,scheduled
+27,Van Ness Avenue,4.729,27,BRYANT,3,bus,scheduled
+27,7th Street,4.662,27,BRYANT,3,bus,scheduled
+27,Jackson Street,4.662,27,BRYANT,3,bus,scheduled
+27,11th Street,3.541,27,BRYANT,3,bus,scheduled
+27,Bush Street,3.541,27,BRYANT,3,bus,scheduled
+27,Harrison Street,3.541,27,BRYANT,3,bus,scheduled
+27,16th Street,3.519,27,BRYANT,3,bus,scheduled
+27,25th Street,3.519,27,BRYANT,3,bus,scheduled
+27,Valencia Street,3.497,27,BRYANT,3,bus,scheduled
+27,Pacific Avenue,2.375,27,BRYANT,3,bus,scheduled
+27,Washington Street,2.375,27,BRYANT,3,bus,scheduled
+27,14th Street,2.353,27,BRYANT,3,bus,scheduled
+27,17th Street,2.353,27,BRYANT,3,bus,scheduled
+27,18th Street,2.353,27,BRYANT,3,bus,scheduled
+27,19th Street,2.353,27,BRYANT,3,bus,scheduled
+27,20th Street,2.353,27,BRYANT,3,bus,scheduled
+27,21st Street,2.353,27,BRYANT,3,bus,scheduled
+27,22nd Street,2.353,27,BRYANT,3,bus,scheduled
+27,23rd Street,2.353,27,BRYANT,3,bus,scheduled
+27,26th Street,2.353,27,BRYANT,3,bus,scheduled
+27,9th Street,2.353,27,BRYANT,3,bus,scheduled
+27,California Street,2.353,27,BRYANT,3,bus,scheduled
+27,Clay Street,2.353,27,BRYANT,3,bus,scheduled
+27,Geary Boulevard,2.353,27,BRYANT,3,bus,scheduled
+27,Mariposa Street,2.353,27,BRYANT,3,bus,scheduled
+27,Market Street,2.353,27,BRYANT,3,bus,scheduled
+27,O'Farrell Street,2.353,27,BRYANT,3,bus,scheduled
+27,Pine Street,2.353,27,BRYANT,3,bus,scheduled
+27,Polk Street,2.353,27,BRYANT,3,bus,scheduled
+27,Post Street,2.353,27,BRYANT,3,bus,scheduled
+27,Sutter Street,2.353,27,BRYANT,3,bus,scheduled
+27,Turk Street,2.353,27,BRYANT,3,bus,scheduled
+27,C. Chavez St&Florida Street,1.188,27,BRYANT,3,bus,scheduled
+27,C. Chavez St&Harrison Street,1.188,27,BRYANT,3,bus,scheduled
+27,Ellis Street,1.188,27,BRYANT,3,bus,scheduled
+27,Grove Street,1.188,27,BRYANT,3,bus,scheduled
+27,Howard,1.188,27,BRYANT,3,bus,scheduled
+27,Larkin Street,1.188,27,BRYANT,3,bus,scheduled
+27,Mcallister Street,1.188,27,BRYANT,3,bus,scheduled
+27,Florida Street,1.166,27,BRYANT,3,bus,scheduled
+27,Howard Street,1.166,27,BRYANT,3,bus,scheduled
+27,Sacramento Street,1.166,27,BRYANT,3,bus,scheduled
+28,19th Avenue,38.664,28,19TH AVENUE,3,bus,scheduled
+28,Lombard Street,13.201,28,19TH AVENUE,3,bus,scheduled
+28,North Point Street,11.888,28,19TH AVENUE,3,bus,scheduled
+28,Park Presidio Boulevard,9.225,28,19TH AVENUE,3,bus,scheduled
+28,Junipero Serra Boulevard,7.071,28,19TH AVENUE,3,bus,scheduled
+28,[UNKNOWN],6.908,28,19TH AVENUE,3,bus,scheduled
+28,Van Ness Avenue,5.274,28,19TH AVENUE,3,bus,scheduled
+28,Francisco Street,2.648,28,19TH AVENUE,3,bus,scheduled
+28,Balboa Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,California Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Divisadero Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Eucalyptus Drive,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Fillmore Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Fulton Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Geary Boulevard,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Golden Gate Br Tunnel/Merchant Road,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Irving Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Judah Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Lawton Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Noriega Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Ortega Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Pierce Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Polk Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Quintara Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Richardson Avenue,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Rivera Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Sloat Boulevard,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Taraval Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Vicente Street,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Winston Drive,2.642,28,19TH AVENUE,3,bus,scheduled
+28,Beach Street,2.637,28,19TH AVENUE,3,bus,scheduled
+28,Chestnut Street,2.637,28,19TH AVENUE,3,bus,scheduled
+28,Gough Street,2.637,28,19TH AVENUE,3,bus,scheduled
+28,Hyde Street,2.637,28,19TH AVENUE,3,bus,scheduled
+28,Jones Street,2.637,28,19TH AVENUE,3,bus,scheduled
+28,Laguna Street,2.637,28,19TH AVENUE,3,bus,scheduled
+28,Mason Street,2.637,28,19TH AVENUE,3,bus,scheduled
+28,Powell Street,2.637,28,19TH AVENUE,3,bus,scheduled
+28,Brotherhood Way,1.461,28,19TH AVENUE,3,bus,scheduled
+28,Holloway Street,1.461,28,19TH AVENUE,3,bus,scheduled
+28,Palmetto Av,1.461,28,19TH AVENUE,3,bus,scheduled
+28,Font Boulevard,1.345,28,19TH AVENUE,3,bus,scheduled
+28,Holloway Avenue,1.345,28,19TH AVENUE,3,bus,scheduled
+28,Junipero Serra Boulevard / S.F. Golf Club,1.345,28,19TH AVENUE,3,bus,scheduled
+28,Lincoln Way,1.345,28,19TH AVENUE,3,bus,scheduled
+28,Park Presidio,1.345,28,19TH AVENUE,3,bus,scheduled
+28,Bay Street,1.297,28,19TH AVENUE,3,bus,scheduled
+28,Crossover Drive,1.297,28,19TH AVENUE,3,bus,scheduled
+28,Lincoln Street,1.297,28,19TH AVENUE,3,bus,scheduled
+28R,19th Avenue,49.937,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,California Street,19.168,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Park Presidio Boulevard,15.385,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,[UNKNOWN],11.602,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,7th Avenue,7.692,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Fulton Street,7.692,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Geary Boulevard,7.692,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Judah Street,7.692,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Noriega Street,7.692,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Quintara Street,7.692,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Taraval Street,7.692,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Winston Drive,7.692,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,12th Avenue,3.909,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Crossover Drive,3.909,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Holloway Street,3.909,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Lincoln Street,3.909,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,6th Avenue,3.783,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Holloway Avenue,3.783,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Lincoln Way,3.783,28R,19TH AVENUE RAPID,3,bus,scheduled
+28R,Park Presidio,3.783,28R,19TH AVENUE RAPID,3,bus,scheduled
+29,Sunset Boulevard,12.822,29,SUNSET,3,bus,scheduled
+29,Persia Avenue,10.312,29,SUNSET,3,bus,scheduled
+29,Mansell Street,10.306,29,SUNSET,3,bus,scheduled
+29,Ocean Avenue,10.265,29,SUNSET,3,bus,scheduled
+29,Lincoln Way,9.704,29,SUNSET,3,bus,scheduled
+29,25th Avenue,8.442,29,SUNSET,3,bus,scheduled
+29,Garfield Street,6.416,29,SUNSET,3,bus,scheduled
+29,Paul Avenue,5.148,29,SUNSET,3,bus,scheduled
+29,Grafton Avenue,5.133,29,SUNSET,3,bus,scheduled
+29,Plymouth Avenue,4.457,29,SUNSET,3,bus,scheduled
+29,Holloway Avenue,3.917,29,SUNSET,3,bus,scheduled
+29,Winston Drive,3.85,29,SUNSET,3,bus,scheduled
+29,Gilman Avenue,3.635,29,SUNSET,3,bus,scheduled
+29,Lincoln Boulevard,3.141,29,SUNSET,3,bus,scheduled
+29,Fitzgerald Avenue,3.104,29,SUNSET,3,bus,scheduled
+29,San Bruno Avenue,2.574,29,SUNSET,3,bus,scheduled
+29,Bowley Street,2.534,29,SUNSET,3,bus,scheduled
+29,Beverly Street,1.958,29,SUNSET,3,bus,scheduled
+29,19th Avenue,1.956,29,SUNSET,3,bus,scheduled
+29,Hawes Street,1.817,29,SUNSET,3,bus,scheduled
+29,California Street,1.346,29,SUNSET,3,bus,scheduled
+29,El Camino Del Mar,1.3,29,SUNSET,3,bus,scheduled
+29,Athens Street,1.289,29,SUNSET,3,bus,scheduled
+29,Brazil Avenue,1.289,29,SUNSET,3,bus,scheduled
+29,Cayuga Avenue,1.289,29,SUNSET,3,bus,scheduled
+29,Dartmouth Street,1.289,29,SUNSET,3,bus,scheduled
+29,Hamilton Street,1.289,29,SUNSET,3,bus,scheduled
+29,John F Shelley Drive,1.289,29,SUNSET,3,bus,scheduled
+29,Madrid Street,1.289,29,SUNSET,3,bus,scheduled
+29,Mission Street,1.289,29,SUNSET,3,bus,scheduled
+29,Moscow Street,1.289,29,SUNSET,3,bus,scheduled
+29,Naples Street,1.289,29,SUNSET,3,bus,scheduled
+29,Paris Street,1.289,29,SUNSET,3,bus,scheduled
+29,Prague Street,1.289,29,SUNSET,3,bus,scheduled
+29,Somerset Street,1.289,29,SUNSET,3,bus,scheduled
+29,Brussels Street,1.287,29,SUNSET,3,bus,scheduled
+29,Goettingen Street,1.287,29,SUNSET,3,bus,scheduled
+29,Gould Street,1.287,29,SUNSET,3,bus,scheduled
+29,Keith Street,1.287,29,SUNSET,3,bus,scheduled
+29,20th Avenue,1.283,29,SUNSET,3,bus,scheduled
+29,Bright Street,1.283,29,SUNSET,3,bus,scheduled
+29,Buckingham Way,1.283,29,SUNSET,3,bus,scheduled
+29,Byxbee Street,1.283,29,SUNSET,3,bus,scheduled
+29,Capitol Avenue,1.283,29,SUNSET,3,bus,scheduled
+29,Howth Street,1.283,29,SUNSET,3,bus,scheduled
+29,Jules Avenue,1.283,29,SUNSET,3,bus,scheduled
+29,Junipero Serra Boulevard,1.283,29,SUNSET,3,bus,scheduled
+29,Lake Merced,1.283,29,SUNSET,3,bus,scheduled
+29,Lake Merced Boulevard,1.283,29,SUNSET,3,bus,scheduled
+29,Middlefield Drive,1.283,29,SUNSET,3,bus,scheduled
+29,Ortega Street,1.283,29,SUNSET,3,bus,scheduled
+29,Otsego Avenue,1.283,29,SUNSET,3,bus,scheduled
+29,Quintara Street,1.283,29,SUNSET,3,bus,scheduled
+29,Rivera Street,1.283,29,SUNSET,3,bus,scheduled
+29,Taraval Street,1.283,29,SUNSET,3,bus,scheduled
+29,Vernon Street,1.283,29,SUNSET,3,bus,scheduled
+29,Vicente Street,1.283,29,SUNSET,3,bus,scheduled
+29,Victoria Street,1.283,29,SUNSET,3,bus,scheduled
+29,Yorba Street,1.283,29,SUNSET,3,bus,scheduled
+29,21st Avenue,1.281,29,SUNSET,3,bus,scheduled
+29,27th Avenue,1.281,29,SUNSET,3,bus,scheduled
+29,Balboa Street,1.281,29,SUNSET,3,bus,scheduled
+29,Clement Street,1.281,29,SUNSET,3,bus,scheduled
+29,Fulton Street,1.281,29,SUNSET,3,bus,scheduled
+29,Geary Boulevard,1.281,29,SUNSET,3,bus,scheduled
+29,Judah Street,1.281,29,SUNSET,3,bus,scheduled
+29,Lawton Street,1.281,29,SUNSET,3,bus,scheduled
+29,Noriega Street,1.281,29,SUNSET,3,bus,scheduled
+29,Griffith Street,1.212,29,SUNSET,3,bus,scheduled
+29,Ingalls Street,1.212,29,SUNSET,3,bus,scheduled
+29,Ingerson Avenue,1.212,29,SUNSET,3,bus,scheduled
+29,Jennings Street,1.212,29,SUNSET,3,bus,scheduled
+29,[UNKNOWN],0.692,29,SUNSET,3,bus,scheduled
+29,Carr Street,0.681,29,SUNSET,3,bus,scheduled
+29,Visitacion Avenue,0.681,29,SUNSET,3,bus,scheduled
+29,Wheat Street,0.681,29,SUNSET,3,bus,scheduled
+29,37th Avenue,0.675,29,SUNSET,3,bus,scheduled
+29,Crespi Drive,0.675,29,SUNSET,3,bus,scheduled
+29,Geneva Avenue,0.675,29,SUNSET,3,bus,scheduled
+29,Granada Avenue,0.675,29,SUNSET,3,bus,scheduled
+29,Lee Avenue,0.675,29,SUNSET,3,bus,scheduled
+29,Ocean Ave/Balboa Park BART Station,0.675,29,SUNSET,3,bus,scheduled
+29,San Jose Street,0.675,29,SUNSET,3,bus,scheduled
+29,Varela Avenue,0.675,29,SUNSET,3,bus,scheduled
+29,29th Avenue,0.673,29,SUNSET,3,bus,scheduled
+29,31st Avenue,0.673,29,SUNSET,3,bus,scheduled
+29,33rd Avenue,0.673,29,SUNSET,3,bus,scheduled
+29,35th Avenue,0.673,29,SUNSET,3,bus,scheduled
+29,30th Avenue,0.608,29,SUNSET,3,bus,scheduled
+29,34th Avenue,0.608,29,SUNSET,3,bus,scheduled
+29,36th Avenue,0.608,29,SUNSET,3,bus,scheduled
+29,Cross Over Drive,0.608,29,SUNSET,3,bus,scheduled
+29,Crossover Drive,0.608,29,SUNSET,3,bus,scheduled
+29,Holloway Street,0.608,29,SUNSET,3,bus,scheduled
+29,I-280 On Ramp,0.608,29,SUNSET,3,bus,scheduled
+29,Lee Street,0.608,29,SUNSET,3,bus,scheduled
+29,Lincoln Street,0.608,29,SUNSET,3,bus,scheduled
+29,Pershing Drive,0.608,29,SUNSET,3,bus,scheduled
+29,San Jose Avenue,0.608,29,SUNSET,3,bus,scheduled
+29,University Street,0.608,29,SUNSET,3,bus,scheduled
+29,3rd Street,0.606,29,SUNSET,3,bus,scheduled
+29,Bay Shore Boulevard,0.606,29,SUNSET,3,bus,scheduled
+29,Bill Walsh Way,0.606,29,SUNSET,3,bus,scheduled
+29,Crane Street,0.606,29,SUNSET,3,bus,scheduled
+29,Onondaga Avenue,0.006,29,SUNSET,3,bus,scheduled
+30,Columbus Avenue,24.088,30,STOCKTON,3,bus,scheduled
+30,Stockton Street,20.392,30,STOCKTON,3,bus,scheduled
+30,Chestnut Street,16.535,30,STOCKTON,3,bus,scheduled
+30,North Point Street,14.905,30,STOCKTON,3,bus,scheduled
+30,Van Ness Avenue,6.85,30,STOCKTON,3,bus,scheduled
+30,Divisadero Street,6.581,30,STOCKTON,3,bus,scheduled
+30,4th Street,6.109,30,STOCKTON,3,bus,scheduled
+30,Francisco Street,5.729,30,STOCKTON,3,bus,scheduled
+30,3rd Street,5.67,30,STOCKTON,3,bus,scheduled
+30,Sutter Street,5.48,30,STOCKTON,3,bus,scheduled
+30,Broderick Street,5.026,30,STOCKTON,3,bus,scheduled
+30,Bay Street,5.019,30,STOCKTON,3,bus,scheduled
+30,Geary Boulevard,3.696,30,STOCKTON,3,bus,scheduled
+30,Hyde Street,3.696,30,STOCKTON,3,bus,scheduled
+30,Mission Street,3.696,30,STOCKTON,3,bus,scheduled
+30,Pacific Avenue,3.696,30,STOCKTON,3,bus,scheduled
+30,Polk Street,3.696,30,STOCKTON,3,bus,scheduled
+30,Union Street,3.696,30,STOCKTON,3,bus,scheduled
+30,Washington Street,3.696,30,STOCKTON,3,bus,scheduled
+30,Kearny Street,3.569,30,STOCKTON,3,bus,scheduled
+30,Folsom Street,2.927,30,STOCKTON,3,bus,scheduled
+30,Townsend Street,2.193,30,STOCKTON,3,bus,scheduled
+30,Fillmore Street,2.079,30,STOCKTON,3,bus,scheduled
+30,Gough Street,2.079,30,STOCKTON,3,bus,scheduled
+30,Laguna Street,2.079,30,STOCKTON,3,bus,scheduled
+30,Pierce Street,2.079,30,STOCKTON,3,bus,scheduled
+30,Webster Street,2.079,30,STOCKTON,3,bus,scheduled
+30,Beach Street,2.033,30,STOCKTON,3,bus,scheduled
+30,Filbert Street,1.912,30,STOCKTON,3,bus,scheduled
+30,Lombard Street,1.912,30,STOCKTON,3,bus,scheduled
+30,Market Street,1.912,30,STOCKTON,3,bus,scheduled
+30,Sacramento Street,1.912,30,STOCKTON,3,bus,scheduled
+30,Taylor Street,1.912,30,STOCKTON,3,bus,scheduled
+30,Clay Street,1.784,30,STOCKTON,3,bus,scheduled
+30,Mason Street,1.784,30,STOCKTON,3,bus,scheduled
+30,Mason St - Sports Basement,1.643,30,STOCKTON,3,bus,scheduled
+30,Mason St - Tunnel Top Park,1.643,30,STOCKTON,3,bus,scheduled
+30,Mason St - Yacht/Girard,1.643,30,STOCKTON,3,bus,scheduled
+30,[UNKNOWN],1.643,30,STOCKTON,3,bus,scheduled
+30,Jefferson Street,1.2,30,STOCKTON,3,bus,scheduled
+30,Brannan Street,1.05,30,STOCKTON,3,bus,scheduled
+30,Bryant Street,1.05,30,STOCKTON,3,bus,scheduled
+30,Lusk Street,1.05,30,STOCKTON,3,bus,scheduled
+30X,Chestnut Street,35.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Divisadero Street,30.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,California Street,10.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Clay Street,10.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Sansome Street,10.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Battery Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Bay Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Beach Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Beale Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Davis Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Fillmore Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Francisco Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Gough Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Howard Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Hward St&Spear,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Jefferson Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Laguna Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Main Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Mission Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Montgomery Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,North Point Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Pierce Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Pine Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Van Ness Avenue,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+30X,Webster Street,5.0,30X,MARINA EXPRESS,3,bus,scheduled
+31,Balboa Street,43.544,31,BALBOA,3,bus,scheduled
+31,Turk Street,24.338,31,BALBOA,3,bus,scheduled
+31,Eddy Street,22.273,31,BALBOA,3,bus,scheduled
+31,Cabrillo Street,7.808,31,BALBOA,3,bus,scheduled
+31,45th Avenue,4.465,31,BALBOA,3,bus,scheduled
+31,La Playa Street,3.343,31,BALBOA,3,bus,scheduled
+31,Larkin Street,2.784,31,BALBOA,3,bus,scheduled
+31,Masonic Avenue,2.415,31,BALBOA,3,bus,scheduled
+31,10th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,12th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,17th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,19th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,21st Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,23rd Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,25th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,28th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,30th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,32nd Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,37th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,40th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,43rd Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,47th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,4th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,6th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,8th Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,Arguello Boulevard,2.233,31,BALBOA,3,bus,scheduled
+31,Chabot Terrace,2.233,31,BALBOA,3,bus,scheduled
+31,Park Presidio Boulevard,2.233,31,BALBOA,3,bus,scheduled
+31,Parker Avenue,2.233,31,BALBOA,3,bus,scheduled
+31,Roselyn Terrace,2.233,31,BALBOA,3,bus,scheduled
+31,Stanyan Street,2.233,31,BALBOA,3,bus,scheduled
+31,Baker Street,1.856,31,BALBOA,3,bus,scheduled
+31,Broderick Street,1.856,31,BALBOA,3,bus,scheduled
+31,Buchanan Street,1.856,31,BALBOA,3,bus,scheduled
+31,Central Avenue,1.856,31,BALBOA,3,bus,scheduled
+31,Cyril Magnin Street,1.856,31,BALBOA,3,bus,scheduled
+31,Divisadero Street,1.856,31,BALBOA,3,bus,scheduled
+31,Fillmore Street,1.856,31,BALBOA,3,bus,scheduled
+31,Gough Street,1.856,31,BALBOA,3,bus,scheduled
+31,Hyde Street,1.856,31,BALBOA,3,bus,scheduled
+31,Jones Street,1.856,31,BALBOA,3,bus,scheduled
+31,Laguna Street,1.856,31,BALBOA,3,bus,scheduled
+31,Leavenworth Street,1.856,31,BALBOA,3,bus,scheduled
+31,Lyon Street,1.856,31,BALBOA,3,bus,scheduled
+31,Market Street,1.856,31,BALBOA,3,bus,scheduled
+31,Pierce Street,1.856,31,BALBOA,3,bus,scheduled
+31,Polk Street,1.856,31,BALBOA,3,bus,scheduled
+31,Scott Street,1.856,31,BALBOA,3,bus,scheduled
+31,Taylor Street,1.856,31,BALBOA,3,bus,scheduled
+31,Van Ness Avenue,1.856,31,BALBOA,3,bus,scheduled
+31,35th Avenue,1.123,31,BALBOA,3,bus,scheduled
+31,34th Avenue,1.11,31,BALBOA,3,bus,scheduled
+31,Geary Boulevard,0.182,31,BALBOA,3,bus,scheduled
+33,18th Street,27.458,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Potrero Avenue,16.731,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Clayton Street,13.174,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Ashbury Street,13.117,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Arguello Boulevard,11.951,33,ASHBURY-18TH ST,3,bus,scheduled
+33,16th Street,9.561,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Stanyan Street,7.17,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Haight Street,5.947,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Fulton Street,4.78,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Market Street,4.78,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Mission Street,4.78,33,ASHBURY-18TH ST,3,bus,scheduled
+33,California Street,3.614,33,ASHBURY-18TH ST,3,bus,scheduled
+33,24th Street,3.557,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Cherry Street,3.285,33,ASHBURY-18TH ST,3,bus,scheduled
+33,19th Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,21st Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,25th Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Bryant Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Castro Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Church Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Clifford Terrace,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Corbett Avenue,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Danvers Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Dolores Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Frederick Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Geary Boulevard,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Guerrero Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Hattie Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Hayes Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Mariposa Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Noe Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Piedmont Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Sanchez Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Valencia Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Waller Street,2.39,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Sacramento Street,2.061,33,ASHBURY-18TH ST,3,bus,scheduled
+33,23rd Street,1.224,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Balboa Street,1.224,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Clement Street,1.224,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Diamond Street,1.224,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Shotwell Street,1.224,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Twin Peaks Boulevard,1.224,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Deming Street,1.167,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Euclid Avenue,1.167,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Eureka Street,1.167,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Folsom Street,1.167,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Hampshire Street,1.167,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Oak Street,1.167,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Sf General Hospital,1.167,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Stanyan Stw,1.167,33,ASHBURY-18TH ST,3,bus,scheduled
+33,Turk Street,1.167,33,ASHBURY-18TH ST,3,bus,scheduled
+35,Diamond Street,34.792,35,EUREKA,3,bus,scheduled
+35,Chenery Street,14.497,35,EUREKA,3,bus,scheduled
+35,Eureka Street,11.542,35,EUREKA,3,bus,scheduled
+35,Castro Street,10.287,35,EUREKA,3,bus,scheduled
+35,Addison Street,10.12,35,EUREKA,3,bus,scheduled
+35,24th Street,7.221,35,EUREKA,3,bus,scheduled
+35,20th Street,5.854,35,EUREKA,3,bus,scheduled
+35,Diamond Heights Boulevard,5.799,35,EUREKA,3,bus,scheduled
+35,Douglass Street,5.799,35,EUREKA,3,bus,scheduled
+35,Market Street,5.799,35,EUREKA,3,bus,scheduled
+35,Miguel Street,5.799,35,EUREKA,3,bus,scheduled
+35,21st Street,5.743,35,EUREKA,3,bus,scheduled
+35,Bemis Street,4.377,35,EUREKA,3,bus,scheduled
+35,Farnum Street,4.377,35,EUREKA,3,bus,scheduled
+35,Hoffman Avenue,4.266,35,EUREKA,3,bus,scheduled
+35,Moffitt Street,2.955,35,EUREKA,3,bus,scheduled
+35,18th Street,2.899,35,EUREKA,3,bus,scheduled
+35,19th Street,2.899,35,EUREKA,3,bus,scheduled
+35,22nd Street,2.899,35,EUREKA,3,bus,scheduled
+35,25th Street,2.899,35,EUREKA,3,bus,scheduled
+35,26th Street,2.899,35,EUREKA,3,bus,scheduled
+35,27th Street,2.899,35,EUREKA,3,bus,scheduled
+35,28th Street,2.899,35,EUREKA,3,bus,scheduled
+35,29th Street,2.899,35,EUREKA,3,bus,scheduled
+35,Bosworth Street,2.899,35,EUREKA,3,bus,scheduled
+35,Cesar Chavez Street,2.899,35,EUREKA,3,bus,scheduled
+35,Clipper Street,2.899,35,EUREKA,3,bus,scheduled
+35,Duncan Street,2.899,35,EUREKA,3,bus,scheduled
+35,Laidley Street,2.899,35,EUREKA,3,bus,scheduled
+35,Mateo Street,2.899,35,EUREKA,3,bus,scheduled
+35,Roanoke Street,2.899,35,EUREKA,3,bus,scheduled
+35,33 Moffitt Street,1.477,35,EUREKA,3,bus,scheduled
+35,Alvarado Street,1.477,35,EUREKA,3,bus,scheduled
+35,Collingwood Street,1.477,35,EUREKA,3,bus,scheduled
+35,164 Addison Street,1.422,35,EUREKA,3,bus,scheduled
+35,23rd Street,1.422,35,EUREKA,3,bus,scheduled
+35,46 Addison Street,1.422,35,EUREKA,3,bus,scheduled
+35,Digby Street,1.422,35,EUREKA,3,bus,scheduled
+35,Grand View Avenue,1.422,35,EUREKA,3,bus,scheduled
+35,Natick Street,1.422,35,EUREKA,3,bus,scheduled
+36,Teresita Boulevard,18.712,36,TERESITA,3,bus,scheduled
+36,Chenery Street,13.428,36,TERESITA,3,bus,scheduled
+36,Myra Way,11.226,36,TERESITA,3,bus,scheduled
+36,Monterey Boulevard,9.433,36,TERESITA,3,bus,scheduled
+36,Foerster Street,7.034,36,TERESITA,3,bus,scheduled
+36,Reposa Way,6.57,36,TERESITA,3,bus,scheduled
+36,Woodside Avenue,6.394,36,TERESITA,3,bus,scheduled
+36,Clarendon Avenue,5.763,36,TERESITA,3,bus,scheduled
+36,30th Street,5.276,36,TERESITA,3,bus,scheduled
+36,Mission Street,4.158,36,TERESITA,3,bus,scheduled
+36,Panorama Drive,3.842,36,TERESITA,3,bus,scheduled
+36,Diamond Street,3.517,36,TERESITA,3,bus,scheduled
+36,Portola Drive,3.517,36,TERESITA,3,bus,scheduled
+36,555 Myra Way,3.207,36,TERESITA,3,bus,scheduled
+36,Molimo Drive,3.207,36,TERESITA,3,bus,scheduled
+36,Omar Way,3.207,36,TERESITA,3,bus,scheduled
+36,Olympia Way,3.202,36,TERESITA,3,bus,scheduled
+36,Valencia Street,3.039,36,TERESITA,3,bus,scheduled
+36,Warren Drive,2.561,36,TERESITA,3,bus,scheduled
+36,Dellbrook Avenue,1.921,36,TERESITA,3,bus,scheduled
+36,Laguna Honda Boulevard,1.921,36,TERESITA,3,bus,scheduled
+36,Skyview Way,1.921,36,TERESITA,3,bus,scheduled
+36,636 Teresita Boulevard,1.759,36,TERESITA,3,bus,scheduled
+36,900 Teresita Boulevard,1.759,36,TERESITA,3,bus,scheduled
+36,Baden Street,1.759,36,TERESITA,3,bus,scheduled
+36,Bosworth Street,1.759,36,TERESITA,3,bus,scheduled
+36,Congo Street,1.759,36,TERESITA,3,bus,scheduled
+36,Detroit Street,1.759,36,TERESITA,3,bus,scheduled
+36,Dolores Street,1.759,36,TERESITA,3,bus,scheduled
+36,Edna Street,1.759,36,TERESITA,3,bus,scheduled
+36,El Sereno Court,1.759,36,TERESITA,3,bus,scheduled
+36,Fowler Avenue,1.759,36,TERESITA,3,bus,scheduled
+36,Gaviota Way,1.759,36,TERESITA,3,bus,scheduled
+36,Hernandez Avenue,1.759,36,TERESITA,3,bus,scheduled
+36,Isola Way,1.759,36,TERESITA,3,bus,scheduled
+36,Laguna Honda Blvd/Forest Hill Sta,1.759,36,TERESITA,3,bus,scheduled
+36,Mangels Avenue,1.759,36,TERESITA,3,bus,scheduled
+36,Mateo Street,1.759,36,TERESITA,3,bus,scheduled
+36,Miguel Street,1.759,36,TERESITA,3,bus,scheduled
+36,Randall Street,1.759,36,TERESITA,3,bus,scheduled
+36,Roanoke Street,1.759,36,TERESITA,3,bus,scheduled
+36,Stillings Avenue,1.759,36,TERESITA,3,bus,scheduled
+36,Ulloa Street,1.759,36,TERESITA,3,bus,scheduled
+36,Dalewood Way,1.604,36,TERESITA,3,bus,scheduled
+36,7th Avenue,1.281,36,TERESITA,3,bus,scheduled
+36,City View Way,1.281,36,TERESITA,3,bus,scheduled
+36,Galewood Circle,1.281,36,TERESITA,3,bus,scheduled
+36,Marietta Drive,1.281,36,TERESITA,3,bus,scheduled
+36,Oakpark Drive,1.281,36,TERESITA,3,bus,scheduled
+36,Balceta Avenue,1.118,36,TERESITA,3,bus,scheduled
+36,Bella Vista Way,1.118,36,TERESITA,3,bus,scheduled
+36,Evelyn Way,1.118,36,TERESITA,3,bus,scheduled
+36,Fairmount Street,1.118,36,TERESITA,3,bus,scheduled
+36,Natick Street,1.118,36,TERESITA,3,bus,scheduled
+36,117 Warren Drive,0.64,36,TERESITA,3,bus,scheduled
+36,1697 7th Avenue,0.64,36,TERESITA,3,bus,scheduled
+36,345 Warren Dr E,0.64,36,TERESITA,3,bus,scheduled
+36,400 Warren Dr E,0.64,36,TERESITA,3,bus,scheduled
+36,455 Warren Drive,0.64,36,TERESITA,3,bus,scheduled
+36,Acadia Street,0.64,36,TERESITA,3,bus,scheduled
+36,Aquavista Way,0.64,36,TERESITA,3,bus,scheduled
+36,Castro Street,0.64,36,TERESITA,3,bus,scheduled
+36,Cesar Chavez Street,0.64,36,TERESITA,3,bus,scheduled
+36,Christopher Drive,0.64,36,TERESITA,3,bus,scheduled
+36,Clarendon Woods S,0.64,36,TERESITA,3,bus,scheduled
+36,Devonshire Way,0.64,36,TERESITA,3,bus,scheduled
+36,Dewey Boulevard,0.64,36,TERESITA,3,bus,scheduled
+36,Forest Knolls Drive,0.64,36,TERESITA,3,bus,scheduled
+36,Gladeview Drive,0.64,36,TERESITA,3,bus,scheduled
+36,Knollview Way,0.64,36,TERESITA,3,bus,scheduled
+36,Laguna Honda,0.64,36,TERESITA,3,bus,scheduled
+36,Laguna Honda Blvd/Opp Forest Hill,0.64,36,TERESITA,3,bus,scheduled
+36,Lawton Street,0.64,36,TERESITA,3,bus,scheduled
+36,Locksley Avenue,0.64,36,TERESITA,3,bus,scheduled
+36,Marview Way,0.64,36,TERESITA,3,bus,scheduled
+36,Starview Way,0.64,36,TERESITA,3,bus,scheduled
+37,Corbett Avenue,18.783,37,CORBETT,3,bus,scheduled
+37,Cole Street,14.268,37,CORBETT,3,bus,scheduled
+37,Roosevelt Way,13.053,37,CORBETT,3,bus,scheduled
+37,14th Street,11.06,37,CORBETT,3,bus,scheduled
+37,17th Street,8.848,37,CORBETT,3,bus,scheduled
+37,Burnett Avenue,7.723,37,CORBETT,3,bus,scheduled
+37,Haight Street,7.632,37,CORBETT,3,bus,scheduled
+37,Market Street,6.636,37,CORBETT,3,bus,scheduled
+37,Clayton Street,5.639,37,CORBETT,3,bus,scheduled
+37,Castro Street,3.427,37,CORBETT,3,bus,scheduled
+37,Noe Street,3.427,37,CORBETT,3,bus,scheduled
+37,Sanchez Street,3.427,37,CORBETT,3,bus,scheduled
+37,Crestline Drive,3.254,37,CORBETT,3,bus,scheduled
+37,Parkridge Drive,3.254,37,CORBETT,3,bus,scheduled
+37,Carmel Street,2.99,37,CORBETT,3,bus,scheduled
+37,Dawnview Way,2.235,37,CORBETT,3,bus,scheduled
+37,Graystone Terrace,2.235,37,CORBETT,3,bus,scheduled
+37,Portola Drive,2.235,37,CORBETT,3,bus,scheduled
+37,Romain Street,2.235,37,CORBETT,3,bus,scheduled
+37,Alma Street,2.212,37,CORBETT,3,bus,scheduled
+37,Belvedere Street,2.212,37,CORBETT,3,bus,scheduled
+37,Buena Vista Terrace,2.212,37,CORBETT,3,bus,scheduled
+37,Carl Street,2.212,37,CORBETT,3,bus,scheduled
+37,Church Street,2.212,37,CORBETT,3,bus,scheduled
+37,Clifford Terrace,2.212,37,CORBETT,3,bus,scheduled
+37,Danvers Street,2.212,37,CORBETT,3,bus,scheduled
+37,Hattie Street,2.212,37,CORBETT,3,bus,scheduled
+37,Lower Terrace,2.212,37,CORBETT,3,bus,scheduled
+37,Mars Street,2.212,37,CORBETT,3,bus,scheduled
+37,Masonic Avenue,2.212,37,CORBETT,3,bus,scheduled
+37,Parnassus Avenue,2.212,37,CORBETT,3,bus,scheduled
+37,15th Street,1.993,37,CORBETT,3,bus,scheduled
+37,211 Corbett Avenue,1.215,37,CORBETT,3,bus,scheduled
+37,341 Corbett Avenue,1.215,37,CORBETT,3,bus,scheduled
+37,414 Roosevelt Way,1.215,37,CORBETT,3,bus,scheduled
+37,539 Corbett Avenue,1.215,37,CORBETT,3,bus,scheduled
+37,800 Corbett Avenue,1.215,37,CORBETT,3,bus,scheduled
+37,925 Corbett Avenue,1.215,37,CORBETT,3,bus,scheduled
+37,Alpine Terrace,1.215,37,CORBETT,3,bus,scheduled
+37,Clipper Street,1.215,37,CORBETT,3,bus,scheduled
+37,Cuesta Court,1.215,37,CORBETT,3,bus,scheduled
+37,Douglass Street,1.215,37,CORBETT,3,bus,scheduled
+37,Park Hill Avenue,1.215,37,CORBETT,3,bus,scheduled
+37,Waller Street,1.215,37,CORBETT,3,bus,scheduled
+37,120 Portola Drive,1.019,37,CORBETT,3,bus,scheduled
+37,40 Crestline Drive,1.019,37,CORBETT,3,bus,scheduled
+37,6 Portola Drive,1.019,37,CORBETT,3,bus,scheduled
+37,74 Crestline Drive,1.019,37,CORBETT,3,bus,scheduled
+37,795 Corbett Avenue,1.019,37,CORBETT,3,bus,scheduled
+37,956 Corbett Avenue,1.019,37,CORBETT,3,bus,scheduled
+37,Hopkins Avenue,1.019,37,CORBETT,3,bus,scheduled
+37,Iron Aly,1.019,37,CORBETT,3,bus,scheduled
+37,16th Street,0.997,37,CORBETT,3,bus,scheduled
+37,210 Corbett Avenue,0.997,37,CORBETT,3,bus,scheduled
+37,328 Corbett Avenue,0.997,37,CORBETT,3,bus,scheduled
+37,415 Roosevelt Way,0.997,37,CORBETT,3,bus,scheduled
+37,Ashbury Street,0.997,37,CORBETT,3,bus,scheduled
+37,Diamond Street,0.997,37,CORBETT,3,bus,scheduled
+37,Frederick Street,0.997,37,CORBETT,3,bus,scheduled
+37,Museum Way,0.997,37,CORBETT,3,bus,scheduled
+37,Ord Street,0.997,37,CORBETT,3,bus,scheduled
+37,Twin Peaks Boulevard,0.997,37,CORBETT,3,bus,scheduled
+38,Geary Boulevard,73.786,38,GEARY,3,bus,scheduled
+38,O'Farrell Street,8.425,38,GEARY,3,bus,scheduled
+38,Market Street,6.582,38,GEARY,3,bus,scheduled
+38,[UNKNOWN],3.758,38,GEARY,3,bus,scheduled
+38,33rd Avenue,3.064,38,GEARY,3,bus,scheduled
+38,Arguello Boulevard,2.667,38,GEARY,3,bus,scheduled
+38,Collins Street,2.662,38,GEARY,3,bus,scheduled
+38,Divisadero Street,2.662,38,GEARY,3,bus,scheduled
+38,Fillmore Street,2.662,38,GEARY,3,bus,scheduled
+38,Gough Street,2.662,38,GEARY,3,bus,scheduled
+38,Laguna Street,2.662,38,GEARY,3,bus,scheduled
+38,Larkin Street,2.662,38,GEARY,3,bus,scheduled
+38,Leavenworth Street,2.662,38,GEARY,3,bus,scheduled
+38,Powell Street,2.662,38,GEARY,3,bus,scheduled
+38,Scott Street,2.662,38,GEARY,3,bus,scheduled
+38,Spruce Street,2.662,38,GEARY,3,bus,scheduled
+38,Taylor Street,2.662,38,GEARY,3,bus,scheduled
+38,Van Ness Avenue,2.662,38,GEARY,3,bus,scheduled
+38,3rd Avenue,2.657,38,GEARY,3,bus,scheduled
+38,6th Avenue,2.657,38,GEARY,3,bus,scheduled
+38,9th Avenue,2.657,38,GEARY,3,bus,scheduled
+38,Park Presidio Boulevard,2.657,38,GEARY,3,bus,scheduled
+38,30th Avenue,2.656,38,GEARY,3,bus,scheduled
+38,17th Avenue,2.653,38,GEARY,3,bus,scheduled
+38,20th Avenue,2.653,38,GEARY,3,bus,scheduled
+38,25th Avenue,2.653,38,GEARY,3,bus,scheduled
+38,28th Avenue,2.653,38,GEARY,3,bus,scheduled
+38,Point Lobos Avenue,2.402,38,GEARY,3,bus,scheduled
+38,42nd Avenue,2.114,38,GEARY,3,bus,scheduled
+38,32nd Avenue,1.91,38,GEARY,3,bus,scheduled
+38,36th Avenue,1.52,38,GEARY,3,bus,scheduled
+38,39th Avenue,1.52,38,GEARY,3,bus,scheduled
+38,1st Street,1.404,38,GEARY,3,bus,scheduled
+38,3rd Street,1.404,38,GEARY,3,bus,scheduled
+38,Beale Street,1.404,38,GEARY,3,bus,scheduled
+38,Grant Avenue,1.404,38,GEARY,3,bus,scheduled
+38,Masonic Street,1.404,38,GEARY,3,bus,scheduled
+38,Mission Street,1.404,38,GEARY,3,bus,scheduled
+38,St Joseph'S Avenue,1.404,38,GEARY,3,bus,scheduled
+38,Stanyan Street,1.404,38,GEARY,3,bus,scheduled
+38,Starr King Way,1.404,38,GEARY,3,bus,scheduled
+38,23rd Avenue,1.395,38,GEARY,3,bus,scheduled
+38,22nd Avenue,1.258,38,GEARY,3,bus,scheduled
+38,Baker Street,1.258,38,GEARY,3,bus,scheduled
+38,Commonwealth Street,1.258,38,GEARY,3,bus,scheduled
+38,Fremont Street,1.258,38,GEARY,3,bus,scheduled
+38,Jones Street,1.258,38,GEARY,3,bus,scheduled
+38,Kearny Street,1.258,38,GEARY,3,bus,scheduled
+38,Montgomery Street,1.258,38,GEARY,3,bus,scheduled
+38,Presidio Avenue,1.258,38,GEARY,3,bus,scheduled
+38,Sansome Street,1.258,38,GEARY,3,bus,scheduled
+38,Stockton Street,1.258,38,GEARY,3,bus,scheduled
+38,Webster Street,1.258,38,GEARY,3,bus,scheduled
+38,43rd Avenue,1.221,38,GEARY,3,bus,scheduled
+38,Clement Street,1.205,38,GEARY,3,bus,scheduled
+38,48th Avenue,0.533,38,GEARY,3,bus,scheduled
+38,Anza Street,0.519,38,GEARY,3,bus,scheduled
+38,Balboa Street,0.515,38,GEARY,3,bus,scheduled
+38,45th Avenue,0.275,38,GEARY,3,bus,scheduled
+38,44th Avenue,0.258,38,GEARY,3,bus,scheduled
+38,46th Avenue,0.258,38,GEARY,3,bus,scheduled
+38R,Geary Boulevard,64.454,38R,GEARY RAPID,3,bus,scheduled
+38R,Market Street,10.357,38R,GEARY RAPID,3,bus,scheduled
+38R,Point Lobos Avenue,10.206,38R,GEARY RAPID,3,bus,scheduled
+38R,O'Farrell Street,8.648,38R,GEARY RAPID,3,bus,scheduled
+38R,20th Avenue,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,25th Avenue,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,33rd Avenue,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,36th Avenue,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,39th Avenue,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,42nd Avenue,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,48th Avenue,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,6th Avenue,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,Arguello Boulevard,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,Divisadero Street,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,Fillmore Street,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,Laguna Street,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,Park Presidio Boulevard,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,Powell Street,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,Van Ness Avenue,4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,[UNKNOWN],4.173,38R,GEARY RAPID,3,bus,scheduled
+38R,1st Street,2.162,38R,GEARY RAPID,3,bus,scheduled
+38R,3rd Street,2.162,38R,GEARY RAPID,3,bus,scheduled
+38R,45th Avenue,2.162,38R,GEARY RAPID,3,bus,scheduled
+38R,Beale Street,2.162,38R,GEARY RAPID,3,bus,scheduled
+38R,Grant Avenue,2.162,38R,GEARY RAPID,3,bus,scheduled
+38R,Masonic Street,2.162,38R,GEARY RAPID,3,bus,scheduled
+38R,Mission Street,2.162,38R,GEARY RAPID,3,bus,scheduled
+38R,Taylor Street,2.162,38R,GEARY RAPID,3,bus,scheduled
+38R,44th Avenue,2.011,38R,GEARY RAPID,3,bus,scheduled
+38R,46th Avenue,2.011,38R,GEARY RAPID,3,bus,scheduled
+38R,Fremont Street,2.011,38R,GEARY RAPID,3,bus,scheduled
+38R,Kearny Street,2.011,38R,GEARY RAPID,3,bus,scheduled
+38R,Leavenworth Street,2.011,38R,GEARY RAPID,3,bus,scheduled
+38R,Montgomery Street,2.011,38R,GEARY RAPID,3,bus,scheduled
+38R,Presidio Avenue,2.011,38R,GEARY RAPID,3,bus,scheduled
+38R,Sansome Street,2.011,38R,GEARY RAPID,3,bus,scheduled
+38R,Stockton Street,2.011,38R,GEARY RAPID,3,bus,scheduled
+39,Stockton Street,26.07,39,COIT,3,bus,scheduled
+39,Union Street,24.064,39,COIT,3,bus,scheduled
+39,Powell Street,23.797,39,COIT,3,bus,scheduled
+39,Lombard Street,20.856,39,COIT,3,bus,scheduled
+39,Greenwich Street,10.428,39,COIT,3,bus,scheduled
+39,North Point Street,10.428,39,COIT,3,bus,scheduled
+39,Grant Avenue,9.759,39,COIT,3,bus,scheduled
+39,Kearny Street,9.759,39,COIT,3,bus,scheduled
+39,Filbert Street,7.487,39,COIT,3,bus,scheduled
+39,Telegraph Hill Boulevard,7.487,39,COIT,3,bus,scheduled
+39,225 Telegraph Hill Boulevard,5.214,39,COIT,3,bus,scheduled
+39,Columbus Avenue,5.214,39,COIT,3,bus,scheduled
+39,Francisco Street,5.214,39,COIT,3,bus,scheduled
+39,[UNKNOWN],5.214,39,COIT,3,bus,scheduled
+39,Montgomery Street,4.545,39,COIT,3,bus,scheduled
+39,115 Telegraph Hill Boulevard,2.941,39,COIT,3,bus,scheduled
+39,Beach Street,2.941,39,COIT,3,bus,scheduled
+39,The Embarcadero,2.941,39,COIT,3,bus,scheduled
+39,Bay Street,2.273,39,COIT,3,bus,scheduled
+43,Masonic Avenue,7.108,43,MASONIC,3,bus,scheduled
+43,Parnassus Avenue,6.536,43,MASONIC,3,bus,scheduled
+43,Geneva Avenue,5.923,43,MASONIC,3,bus,scheduled
+43,Laguna Honda Boulevard,5.923,43,MASONIC,3,bus,scheduled
+43,Presidio Avenue,5.923,43,MASONIC,3,bus,scheduled
+43,Lombard Street,5.31,43,MASONIC,3,bus,scheduled
+43,Monterey Boulevard,5.31,43,MASONIC,3,bus,scheduled
+43,Cole Street,4.739,43,MASONIC,3,bus,scheduled
+43,Yerba Buena Avenue,4.739,43,MASONIC,3,bus,scheduled
+43,Cordova Avenue,4.126,43,MASONIC,3,bus,scheduled
+43,Naples Street,4.126,43,MASONIC,3,bus,scheduled
+43,9th Avenue,3.554,43,MASONIC,3,bus,scheduled
+43,Chicago Way,3.554,43,MASONIC,3,bus,scheduled
+43,Haight Street,3.554,43,MASONIC,3,bus,scheduled
+43,Judah Street,3.554,43,MASONIC,3,bus,scheduled
+43,Miraloma Drive,3.554,43,MASONIC,3,bus,scheduled
+43,7th Avenue,2.982,43,MASONIC,3,bus,scheduled
+43,Gennessee Street,2.982,43,MASONIC,3,bus,scheduled
+43,South Hill Boulevard,2.982,43,MASONIC,3,bus,scheduled
+43,Judson Avenue,2.941,43,MASONIC,3,bus,scheduled
+43,Plymouth Avenue,2.941,43,MASONIC,3,bus,scheduled
+43,Prague Street,2.41,43,MASONIC,3,bus,scheduled
+43,Geary Boulevard,2.369,43,MASONIC,3,bus,scheduled
+43,Laguna Street,2.369,43,MASONIC,3,bus,scheduled
+43,Lawton Street,2.369,43,MASONIC,3,bus,scheduled
+43,Portola Drive,2.369,43,MASONIC,3,bus,scheduled
+43,Presidio Boulevard,2.369,43,MASONIC,3,bus,scheduled
+43,Rolph Street,2.369,43,MASONIC,3,bus,scheduled
+43,[UNKNOWN],2.369,43,MASONIC,3,bus,scheduled
+43,Letterman Drive,2.328,43,MASONIC,3,bus,scheduled
+43,Munich Street,2.328,43,MASONIC,3,bus,scheduled
+43,Lincoln Boulevard,1.757,43,MASONIC,3,bus,scheduled
+43,Foerster Street,1.716,43,MASONIC,3,bus,scheduled
+43,Curtis Street,1.225,43,MASONIC,3,bus,scheduled
+43,1697 7th Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Balceta Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Brentwood Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,California Street,1.185,43,MASONIC,3,bus,scheduled
+43,Carl Street,1.185,43,MASONIC,3,bus,scheduled
+43,Cayuga Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Chestnut Street,1.185,43,MASONIC,3,bus,scheduled
+43,Clarendon Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Clay Street,1.185,43,MASONIC,3,bus,scheduled
+43,Clayton Street,1.185,43,MASONIC,3,bus,scheduled
+43,Divisadero Street,1.185,43,MASONIC,3,bus,scheduled
+43,Fillmore Street,1.185,43,MASONIC,3,bus,scheduled
+43,Flood Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Frida Khalo Way,1.185,43,MASONIC,3,bus,scheduled
+43,Fulton Street,1.185,43,MASONIC,3,bus,scheduled
+43,Geneva Ave/Balboa Park BART,1.185,43,MASONIC,3,bus,scheduled
+43,Girard Road,1.185,43,MASONIC,3,bus,scheduled
+43,Halleck St/Army Headquarters,1.185,43,MASONIC,3,bus,scheduled
+43,Hayes Street,1.185,43,MASONIC,3,bus,scheduled
+43,Hazelwood Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Hillway Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Howth Street,1.185,43,MASONIC,3,bus,scheduled
+43,Idora Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Jackson Street,1.185,43,MASONIC,3,bus,scheduled
+43,Juanita Way,1.185,43,MASONIC,3,bus,scheduled
+43,Kirkham Street,1.185,43,MASONIC,3,bus,scheduled
+43,Lyon Street,1.185,43,MASONIC,3,bus,scheduled
+43,Madrid Street,1.185,43,MASONIC,3,bus,scheduled
+43,Mangels Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Marina Boulevard,1.185,43,MASONIC,3,bus,scheduled
+43,Marne Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Mission Street,1.185,43,MASONIC,3,bus,scheduled
+43,Naylor Street,1.185,43,MASONIC,3,bus,scheduled
+43,Oak Street,1.185,43,MASONIC,3,bus,scheduled
+43,Pierce Street,1.185,43,MASONIC,3,bus,scheduled
+43,Ridgewood Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Shrader Street,1.185,43,MASONIC,3,bus,scheduled
+43,Stanyan Street,1.185,43,MASONIC,3,bus,scheduled
+43,Sutter Street,1.185,43,MASONIC,3,bus,scheduled
+43,Turk Street,1.185,43,MASONIC,3,bus,scheduled
+43,Valdez Avenue,1.185,43,MASONIC,3,bus,scheduled
+43,Willard Street,1.185,43,MASONIC,3,bus,scheduled
+43,Winding Way,1.185,43,MASONIC,3,bus,scheduled
+43,126 Miraloma Drive,0.613,43,MASONIC,3,bus,scheduled
+43,4th Avenue,0.613,43,MASONIC,3,bus,scheduled
+43,500 Parnassus Avenue,0.613,43,MASONIC,3,bus,scheduled
+43,6th Avenue,0.613,43,MASONIC,3,bus,scheduled
+43,Brunswick Street,0.613,43,MASONIC,3,bus,scheduled
+43,Frederick Street,0.613,43,MASONIC,3,bus,scheduled
+43,Laguna Honda,0.613,43,MASONIC,3,bus,scheduled
+43,Laguna Honda Blvd/Forest Hill Sta,0.613,43,MASONIC,3,bus,scheduled
+43,Letterman Dr/Tides Bldg,0.613,43,MASONIC,3,bus,scheduled
+43,Saint Elmo Way,0.613,43,MASONIC,3,bus,scheduled
+43,Sumner Avenue,0.613,43,MASONIC,3,bus,scheduled
+43,Vasquez Avenue,0.613,43,MASONIC,3,bus,scheduled
+43,Waithman Way,0.613,43,MASONIC,3,bus,scheduled
+43,513 Parnassus Avenue,0.572,43,MASONIC,3,bus,scheduled
+43,5th Avenue,0.572,43,MASONIC,3,bus,scheduled
+43,Athens Street,0.572,43,MASONIC,3,bus,scheduled
+43,Bay Street,0.572,43,MASONIC,3,bus,scheduled
+43,Bengal Aly,0.572,43,MASONIC,3,bus,scheduled
+43,Buchanan Street,0.572,43,MASONIC,3,bus,scheduled
+43,Del Sur Avenue,0.572,43,MASONIC,3,bus,scheduled
+43,Dewey Boulevard,0.572,43,MASONIC,3,bus,scheduled
+43,Laguna Honda Blvd/Opp Forest Hill,0.572,43,MASONIC,3,bus,scheduled
+43,Lombard,0.572,43,MASONIC,3,bus,scheduled
+43,Parnassus Ave &4th Avenue,0.572,43,MASONIC,3,bus,scheduled
+43,Ravenwood Drive,0.572,43,MASONIC,3,bus,scheduled
+43,Rex Avenue,0.572,43,MASONIC,3,bus,scheduled
+43,Richardson Avenue,0.572,43,MASONIC,3,bus,scheduled
+43,Seville Street,0.572,43,MASONIC,3,bus,scheduled
+43,Simonds Loop,0.572,43,MASONIC,3,bus,scheduled
+43,Ulloa Street,0.572,43,MASONIC,3,bus,scheduled
+43,Waller Street,0.572,43,MASONIC,3,bus,scheduled
+44,Silver Avenue,25.149,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Palou Avenue,10.1,44,O'SHAUGHNESSY,3,bus,scheduled
+44,9th Avenue,7.074,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Keith Street,6.733,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Evans Avenue,5.871,44,O'SHAUGHNESSY,3,bus,scheduled
+44,6th Avenue,5.659,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Hudson Avenue,5.05,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Middle Point Road,5.05,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Bosworth Street,4.503,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Woodside Avenue,4.244,44,O'SHAUGHNESSY,3,bus,scheduled
+44,3rd Street,4.187,44,O'SHAUGHNESSY,3,bus,scheduled
+44,7th Avenue,3.543,44,O'SHAUGHNESSY,3,bus,scheduled
+44,O'Shaughnessy Boulevard,3.543,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Ingalls Street,3.367,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Newcomb Avenue,3.367,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Whitney Young Circle,3.367,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Lawton Street,2.83,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Newhall Street,2.546,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Alemany Boulevard,2.526,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Laguna Honda Boulevard,2.116,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Fairfax Avenue,1.726,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Harbor Road,1.683,44,O'SHAUGHNESSY,3,bus,scheduled
+44,La Salle Avenue,1.683,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Lane Street,1.683,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Mendell Street,1.683,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Oakdale Avenue,1.683,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Phelps Street,1.683,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Progress Street,1.683,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Revere Avenue,1.683,44,O'SHAUGHNESSY,3,bus,scheduled
+44,San Bruno Avenue,1.683,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Cambridge Street,1.673,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Congdon Street,1.673,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Dartmouth Street,1.673,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Diamond Street,1.673,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Gambier Street,1.673,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Lisbon Street,1.673,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Lyell Street,1.673,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Merrill Street,1.673,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Mission Street,1.673,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Princeton Street,1.673,44,O'SHAUGHNESSY,3,bus,scheduled
+44,1697 7th Avenue,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,8th Avenue,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Balboa Street,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Cabrillo Street,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,California Street,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Clarendon Avenue,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Clement Street,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Del Vale Avenue,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Elk Street,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Fulton Street,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Geary Boulevard,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Hernandez Avenue,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Irving Street,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Judah Street,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Kirkham Street,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Lincoln Way,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Lippard Avenue,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Malta Drive,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Portola Drive,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Ulloa Street,1.415,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Acacia Avenue,0.863,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Bay Shore Boulevard,0.863,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Memory Lane,0.863,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Santa Fe Avenue,0.863,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Uspo,0.863,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Holyoke Street,0.853,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Acacia,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Augusta Street,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Boylston Street,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Cayuga Avenue,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Charter Oak Avenue,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Evans Ave Opposite Us Post Office,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Fair Fax Avenue,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Innes Avenue,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Middle Point,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Quint Street,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Rousseau Street,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Still Street,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Topeka Avenue,0.821,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Balceta Avenue,0.714,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Laguna Honda,0.714,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Laguna Honda Blvd/Forest Hill Sta,0.714,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Tea Garden Dr/Deyoung Museum,0.714,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Acad Of Sciences,0.701,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Concourse Drive,0.701,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Dewey Boulevard,0.701,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Laguna Honda Blvd/Opp Forest Hill,0.701,44,O'SHAUGHNESSY,3,bus,scheduled
+44,O'Shaughnessy Blvd - Sf School Of The Arts,0.701,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Burrows Street,0.005,44,O'SHAUGHNESSY,3,bus,scheduled
+44,Girard Street,0.005,44,O'SHAUGHNESSY,3,bus,scheduled
+45,Union Street,54.702,45,UNION-STOCKTON,3,bus,scheduled
+45,Stockton Street,16.106,45,UNION-STOCKTON,3,bus,scheduled
+45,Baker Street,7.324,45,UNION-STOCKTON,3,bus,scheduled
+45,Greenwich Street,7.324,45,UNION-STOCKTON,3,bus,scheduled
+45,4th Street,7.314,45,UNION-STOCKTON,3,bus,scheduled
+45,Lyon Street,7.048,45,UNION-STOCKTON,3,bus,scheduled
+45,3rd Street,6.645,45,UNION-STOCKTON,3,bus,scheduled
+45,Columbus Avenue,5.857,45,UNION-STOCKTON,3,bus,scheduled
+45,Divisadero Street,4.791,45,UNION-STOCKTON,3,bus,scheduled
+45,Pierce Street,4.791,45,UNION-STOCKTON,3,bus,scheduled
+45,Sutter Street,4.59,45,UNION-STOCKTON,3,bus,scheduled
+45,Townsend Street,4.587,45,UNION-STOCKTON,3,bus,scheduled
+45,Kearny Street,3.323,45,UNION-STOCKTON,3,bus,scheduled
+45,Brannan Street,3.124,45,UNION-STOCKTON,3,bus,scheduled
+45,Folsom Street,3.124,45,UNION-STOCKTON,3,bus,scheduled
+45,Geary Boulevard,3.124,45,UNION-STOCKTON,3,bus,scheduled
+45,Lusk Street,3.124,45,UNION-STOCKTON,3,bus,scheduled
+45,Mission Street,3.124,45,UNION-STOCKTON,3,bus,scheduled
+45,Buchanan Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Fillmore Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Gough Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Hyde Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Jones Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Laguna Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Larkin Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Leavenworth Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Mason Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Pacific Avenue,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Polk Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Taylor Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Van Ness Avenue,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Washington Street,2.929,45,UNION-STOCKTON,3,bus,scheduled
+45,Bryant Street,1.661,45,UNION-STOCKTON,3,bus,scheduled
+45,Clay Street,1.466,45,UNION-STOCKTON,3,bus,scheduled
+45,5th Street,1.463,45,UNION-STOCKTON,3,bus,scheduled
+45,Harrison Street,1.463,45,UNION-STOCKTON,3,bus,scheduled
+45,Market Street,1.463,45,UNION-STOCKTON,3,bus,scheduled
+45,Sacramento Street,1.463,45,UNION-STOCKTON,3,bus,scheduled
+48,24th Street,23.9,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Quintara Street,21.192,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Portola Drive,9.653,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,25th Street,9.097,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,23rd Street,6.746,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Rivera Street,6.483,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,26th Street,5.275,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Rhode Island Street,4.109,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,22nd Street,4.103,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,14th Avenue,4.003,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Ulloa Street,4.003,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,17th Avenue,3.992,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Clipper Street,3.976,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Kansas Street,3.558,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Pennsylvania Avenue,3.435,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Santiago Street,2.665,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Wisconsin Street,2.638,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,39th Avenue,2.624,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Castro Street,2.575,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Iowa Street,2.509,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,46th Avenue,1.92,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Diamond Street,1.916,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Bryant Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Church Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Connecticut Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Dakota Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,De Haro Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Dolores Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Folsom Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Guerrero Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Harrison Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Mission Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Noe Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Potrero Avenue,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Utah Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Valencia Street,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Van Ness Avenue,1.717,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Sanchez Street,1.714,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Sunset Boulevard,1.423,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Forest Side Avenue,1.334,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Taraval Street,1.334,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,19th Avenue,1.331,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,22nd Avenue,1.331,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,24th Avenue,1.331,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,26th Avenue,1.328,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,27th Avenue,1.328,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,28th Avenue,1.328,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,29th Avenue,1.328,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,31st Avenue,1.328,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,33rd Avenue,1.328,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,35th Avenue,1.328,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,41st Avenue,1.312,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,48th Avenue,1.312,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Lower Great Highway,1.312,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Douglass Street,1.301,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Glenview Drive,1.301,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Laguna Honda Boulevard,1.301,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,San Pablo Avenue,1.301,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,25th Avenue,0.797,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,3rd Street,0.797,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Illinois Street,0.797,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Minnesota Street,0.797,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Lenox Way,0.719,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,43rd Avenue,0.704,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Quintra Street,0.704,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Claremont Avenue,0.687,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Diamond Heights Boulevard,0.687,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Dorchester Way,0.687,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Grand View Avenue,0.687,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Portola Avenue,0.687,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Waithman Way,0.687,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Woodside Avenue,0.687,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Claremont Boulevard,0.615,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Del Sur Avenue,0.615,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,O'Shaughnessy Boulevard,0.615,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,Rex Avenue,0.615,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,San Lorenzo Avenue,0.615,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,West Portal Avenue,0.615,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,36th Avenue,0.608,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,37th Avenue,0.608,48,QUINTARA-24TH STREET,3,bus,scheduled
+48,44th Avenue,0.608,48,QUINTARA-24TH STREET,3,bus,scheduled
+49,Mission Street,47.096,49,VAN NESS-MISSION,3,bus,scheduled
+49,Van Ness Avenue,32.011,49,VAN NESS-MISSION,3,bus,scheduled
+49,Ocean Avenue,14.371,49,VAN NESS-MISSION,3,bus,scheduled
+49,Chestnut Street,2.775,49,VAN NESS-MISSION,3,bus,scheduled
+49,Eddy Street,2.775,49,VAN NESS-MISSION,3,bus,scheduled
+49,Market Street,2.775,49,VAN NESS-MISSION,3,bus,scheduled
+49,Mcallister Street,2.775,49,VAN NESS-MISSION,3,bus,scheduled
+49,North Point Street,2.775,49,VAN NESS-MISSION,3,bus,scheduled
+49,Union Street,2.775,49,VAN NESS-MISSION,3,bus,scheduled
+49,Vallejo Street,2.775,49,VAN NESS-MISSION,3,bus,scheduled
+49,14th Street,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,16th Street,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,18th Street,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,20th Street,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,22nd Street,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,24th Street,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,26th Street,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,30th Street,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,Appleton Avenue,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,Cayuga Avenue,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,Cortland Avenue,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,Highland Avenue,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,Howth Street,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,Otsego Avenue,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,Richland Avenue,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,Silver Avenue,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,Trumbull Street,2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,[UNKNOWN],2.616,49,VAN NESS-MISSION,3,bus,scheduled
+49,Bay Street,1.486,49,VAN NESS-MISSION,3,bus,scheduled
+49,Bush Street,1.486,49,VAN NESS-MISSION,3,bus,scheduled
+49,Clay Street,1.486,49,VAN NESS-MISSION,3,bus,scheduled
+49,Geary Boulevard,1.486,49,VAN NESS-MISSION,3,bus,scheduled
+49,Pacific Street,1.486,49,VAN NESS-MISSION,3,bus,scheduled
+49,13th Street,1.328,49,VAN NESS-MISSION,3,bus,scheduled
+49,Excelsior Avenue,1.328,49,VAN NESS-MISSION,3,bus,scheduled
+49,Murray Street,1.328,49,VAN NESS-MISSION,3,bus,scheduled
+49,Ocean Ave/Balboa Park BART Station,1.328,49,VAN NESS-MISSION,3,bus,scheduled
+49,Persia Avenue,1.328,49,VAN NESS-MISSION,3,bus,scheduled
+49,Power Street,1.328,49,VAN NESS-MISSION,3,bus,scheduled
+49,San Jose Street,1.328,49,VAN NESS-MISSION,3,bus,scheduled
+49,12th Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,4080 Mission Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,Bosworth Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,Francis Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,I-280 On Ramp,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,Jackson Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,Mccoppin Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,O'Farrell Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,Otis,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,Otis Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,Sacramento Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,San Jose Avenue,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,Sutter Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+49,Valencia Street,1.289,49,VAN NESS-MISSION,3,bus,scheduled
+5,Fulton Street,49.72,5,FULTON,3,bus,scheduled
+5,Mcallister Street,33.234,5,FULTON,3,bus,scheduled
+5,Market Street,7.158,5,FULTON,3,bus,scheduled
+5,La Playa Street,5.242,5,FULTON,3,bus,scheduled
+5,Cabrillo Street,4.394,5,FULTON,3,bus,scheduled
+5,6th Avenue,3.91,5,FULTON,3,bus,scheduled
+5,8th Avenue,3.635,5,FULTON,3,bus,scheduled
+5,4th Avenue,3.527,5,FULTON,3,bus,scheduled
+5,Arguello Boulevard,3.527,5,FULTON,3,bus,scheduled
+5,Baker Street,3.527,5,FULTON,3,bus,scheduled
+5,Clayton Street,3.527,5,FULTON,3,bus,scheduled
+5,Divisadero Street,3.527,5,FULTON,3,bus,scheduled
+5,Fillmore Street,3.527,5,FULTON,3,bus,scheduled
+5,Masonic Avenue,3.527,5,FULTON,3,bus,scheduled
+5,Pierce Street,3.527,5,FULTON,3,bus,scheduled
+5,Gough Street,3.485,5,FULTON,3,bus,scheduled
+5,Hyde Street,3.485,5,FULTON,3,bus,scheduled
+5,Laguna Street,3.485,5,FULTON,3,bus,scheduled
+5,Van Ness Avenue,3.485,5,FULTON,3,bus,scheduled
+5,Leavenworth Street,1.783,5,FULTON,3,bus,scheduled
+5,Shrader Street,1.783,5,FULTON,3,bus,scheduled
+5,Stanyan Street,1.783,5,FULTON,3,bus,scheduled
+5,10th Avenue,1.747,5,FULTON,3,bus,scheduled
+5,18th Avenue,1.747,5,FULTON,3,bus,scheduled
+5,22nd Avenue,1.747,5,FULTON,3,bus,scheduled
+5,25th Avenue,1.747,5,FULTON,3,bus,scheduled
+5,33rd Avenue,1.747,5,FULTON,3,bus,scheduled
+5,40th Avenue,1.747,5,FULTON,3,bus,scheduled
+5,43rd Avenue,1.747,5,FULTON,3,bus,scheduled
+5,46th Avenue,1.747,5,FULTON,3,bus,scheduled
+5,Park Presidio Boulevard,1.747,5,FULTON,3,bus,scheduled
+5,Parker Avenue,1.743,5,FULTON,3,bus,scheduled
+5,Stanyan Stw,1.743,5,FULTON,3,bus,scheduled
+5,Jones Street,1.702,5,FULTON,3,bus,scheduled
+5,Larkin Street,1.702,5,FULTON,3,bus,scheduled
+5,[UNKNOWN],1.514,5,FULTON,3,bus,scheduled
+5,3rd Street,1.485,5,FULTON,3,bus,scheduled
+5,4th Street,1.019,5,FULTON,3,bus,scheduled
+5,7th Avenue,0.899,5,FULTON,3,bus,scheduled
+5,28th Avenue,0.897,5,FULTON,3,bus,scheduled
+5,30th Avenue,0.897,5,FULTON,3,bus,scheduled
+5,37th Avenue,0.897,5,FULTON,3,bus,scheduled
+5,36th Avenue,0.851,5,FULTON,3,bus,scheduled
+5,Fulton S T& 28th Avenue,0.851,5,FULTON,3,bus,scheduled
+5,Fulton S T& 30th Avenue,0.851,5,FULTON,3,bus,scheduled
+5,1st Street,0.812,5,FULTON,3,bus,scheduled
+5,Beale Street,0.812,5,FULTON,3,bus,scheduled
+5,Mission Street,0.812,5,FULTON,3,bus,scheduled
+5,Grant Avenue,0.803,5,FULTON,3,bus,scheduled
+5,Mason Street,0.803,5,FULTON,3,bus,scheduled
+5,Powell Street,0.803,5,FULTON,3,bus,scheduled
+5,5th Street,0.795,5,FULTON,3,bus,scheduled
+5,Market St Between 5th,0.795,5,FULTON,3,bus,scheduled
+5,Fremont Street,0.702,5,FULTON,3,bus,scheduled
+5,Montgomery Street,0.702,5,FULTON,3,bus,scheduled
+5,Sansome Street,0.702,5,FULTON,3,bus,scheduled
+5,Market St Between 4th,0.672,5,FULTON,3,bus,scheduled
+52,Diamond Street,24.046,52,EXCELSIOR,3,bus,scheduled
+52,Brazil Avenue,17.051,52,EXCELSIOR,3,bus,scheduled
+52,Diamond Heights Boulevard,17.051,52,EXCELSIOR,3,bus,scheduled
+52,Woodside Avenue,9.817,52,EXCELSIOR,3,bus,scheduled
+52,Duncan Street,8.347,52,EXCELSIOR,3,bus,scheduled
+52,Mission Street,7.114,52,EXCELSIOR,3,bus,scheduled
+52,Portola Drive,6.995,52,EXCELSIOR,3,bus,scheduled
+52,Excelsior Avenue,6.876,52,EXCELSIOR,3,bus,scheduled
+52,Silver Avenue,5.644,52,EXCELSIOR,3,bus,scheduled
+52,Alemany Boulevard,4.173,52,EXCELSIOR,3,bus,scheduled
+52,Gold Mine Drive,4.173,52,EXCELSIOR,3,bus,scheduled
+52,Naples Street,4.173,52,EXCELSIOR,3,bus,scheduled
+52,Prague Street,4.173,52,EXCELSIOR,3,bus,scheduled
+52,Arbor Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Athens Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Bosworth Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Chenery Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Conrad Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Dublin Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Glenview Drive,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Hernandez Avenue,2.822,52,EXCELSIOR,3,bus,scheduled
+52,La Grande Avenue,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Laguna Honda Blvd/Forest Hill Sta,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Lyell Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Madrid Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Moffitt Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Moscow Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Paris Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Surrey Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Sussex Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Ulloa Street,2.822,52,EXCELSIOR,3,bus,scheduled
+52,Amber Drive,2.703,52,EXCELSIOR,3,bus,scheduled
+52,5157 Diamond Heights Boulevard,1.471,52,EXCELSIOR,3,bus,scheduled
+52,Addison Street,1.471,52,EXCELSIOR,3,bus,scheduled
+52,Berkeley,1.471,52,EXCELSIOR,3,bus,scheduled
+52,Cayuga Avenue,1.471,52,EXCELSIOR,3,bus,scheduled
+52,Dewey Boulevard,1.471,52,EXCELSIOR,3,bus,scheduled
+52,Laguna Honda Boulevard,1.471,52,EXCELSIOR,3,bus,scheduled
+52,Rousseau Street,1.471,52,EXCELSIOR,3,bus,scheduled
+52,Still Street,1.471,52,EXCELSIOR,3,bus,scheduled
+52,Balceta Avenue,1.351,52,EXCELSIOR,3,bus,scheduled
+52,Berkeley Way,1.351,52,EXCELSIOR,3,bus,scheduled
+52,Cameo Way,1.351,52,EXCELSIOR,3,bus,scheduled
+52,Clipper Street,1.351,52,EXCELSIOR,3,bus,scheduled
+52,Diamond St (South)/Diamond Hts,1.351,52,EXCELSIOR,3,bus,scheduled
+52,Munich Street,1.351,52,EXCELSIOR,3,bus,scheduled
+52,Persia Avenue,1.351,52,EXCELSIOR,3,bus,scheduled
+54,Moscow Street,9.386,54,FELTON,3,bus,scheduled
+54,Plymouth Avenue,8.838,54,FELTON,3,bus,scheduled
+54,Geneva Avenue,7.576,54,FELTON,3,bus,scheduled
+54,Felton Street,7.028,54,FELTON,3,bus,scheduled
+54,Ingalls Street,6.576,54,FELTON,3,bus,scheduled
+54,3rd Street,6.345,54,FELTON,3,bus,scheduled
+54,Bacon Street,6.319,54,FELTON,3,bus,scheduled
+54,Hudson Avenue,5.539,54,FELTON,3,bus,scheduled
+54,Revere Avenue,5.076,54,FELTON,3,bus,scheduled
+54,Phelps Street,3.807,54,FELTON,3,bus,scheduled
+54,Van Dyke Avenue,3.807,54,FELTON,3,bus,scheduled
+54,Alemany Boulevard,3.788,54,FELTON,3,bus,scheduled
+54,University Street,3.788,54,FELTON,3,bus,scheduled
+54,Woolsey Street,3.788,54,FELTON,3,bus,scheduled
+54,Topeka Avenue,3.092,54,FELTON,3,bus,scheduled
+54,Williams Avenue,3.092,54,FELTON,3,bus,scheduled
+54,Sagamore Street,3.073,54,FELTON,3,bus,scheduled
+54,La Salle Avenue,2.77,54,FELTON,3,bus,scheduled
+54,Howth Street,2.693,54,FELTON,3,bus,scheduled
+54,Jennings Street,2.538,54,FELTON,3,bus,scheduled
+54,Grafton Avenue,2.525,54,FELTON,3,bus,scheduled
+54,Persia Avenue,2.525,54,FELTON,3,bus,scheduled
+54,Prague Street,2.525,54,FELTON,3,bus,scheduled
+54,Russia Avenue,2.525,54,FELTON,3,bus,scheduled
+54,Keith Street,2.377,54,FELTON,3,bus,scheduled
+54,Avalon Avenue,2.358,54,FELTON,3,bus,scheduled
+54,Cashmere Street,2.216,54,FELTON,3,bus,scheduled
+54,Bridge View Drive,1.984,54,FELTON,3,bus,scheduled
+54,Newhall Street,1.984,54,FELTON,3,bus,scheduled
+54,Reddy Street,1.984,54,FELTON,3,bus,scheduled
+54,St Charles Avenue,1.978,54,FELTON,3,bus,scheduled
+54,Mt Vernon Avenue,1.81,54,FELTON,3,bus,scheduled
+54,Kiska Road,1.662,54,FELTON,3,bus,scheduled
+54,Northridge Road,1.662,54,FELTON,3,bus,scheduled
+54,Louisburg Street,1.643,54,FELTON,3,bus,scheduled
+54,Carroll Avenue,1.269,54,FELTON,3,bus,scheduled
+54,Girard Street,1.269,54,FELTON,3,bus,scheduled
+54,Hudson,1.269,54,FELTON,3,bus,scheduled
+54,Kirkwood Avenue,1.269,54,FELTON,3,bus,scheduled
+54,Lane Street,1.269,54,FELTON,3,bus,scheduled
+54,San Bruno Avenue,1.269,54,FELTON,3,bus,scheduled
+54,Scotia Avenue,1.269,54,FELTON,3,bus,scheduled
+54,Thomas Avenue,1.269,54,FELTON,3,bus,scheduled
+54,Thornton Avenue,1.269,54,FELTON,3,bus,scheduled
+54,Amherst Street,1.263,54,FELTON,3,bus,scheduled
+54,Arch Street,1.263,54,FELTON,3,bus,scheduled
+54,Bowdoin Street,1.263,54,FELTON,3,bus,scheduled
+54,Broad Street,1.263,54,FELTON,3,bus,scheduled
+54,Cambridge Street,1.263,54,FELTON,3,bus,scheduled
+54,Capitol Avenue,1.263,54,FELTON,3,bus,scheduled
+54,Cayuga Avenue,1.263,54,FELTON,3,bus,scheduled
+54,Daly City BART West Station Road,1.263,54,FELTON,3,bus,scheduled
+54,Excelsior Avenue,1.263,54,FELTON,3,bus,scheduled
+54,France Avenue,1.263,54,FELTON,3,bus,scheduled
+54,Geneva Ave/Balboa Park BART,1.263,54,FELTON,3,bus,scheduled
+54,Goettingen Street,1.263,54,FELTON,3,bus,scheduled
+54,Hamilton Street,1.263,54,FELTON,3,bus,scheduled
+54,Harvard Street,1.263,54,FELTON,3,bus,scheduled
+54,Holyoke Street,1.263,54,FELTON,3,bus,scheduled
+54,Italy Avenue,1.263,54,FELTON,3,bus,scheduled
+54,La Grande Avenue,1.263,54,FELTON,3,bus,scheduled
+54,Lakeview Avenue,1.263,54,FELTON,3,bus,scheduled
+54,Lobos Street,1.263,54,FELTON,3,bus,scheduled
+54,Madison Street,1.263,54,FELTON,3,bus,scheduled
+54,Madrid Street,1.263,54,FELTON,3,bus,scheduled
+54,Mission Street,1.263,54,FELTON,3,bus,scheduled
+54,Montana Street,1.263,54,FELTON,3,bus,scheduled
+54,Naples Street,1.263,54,FELTON,3,bus,scheduled
+54,Niagra Avenue,1.263,54,FELTON,3,bus,scheduled
+54,Peru Avenue,1.263,54,FELTON,3,bus,scheduled
+54,Somerset Street,1.263,54,FELTON,3,bus,scheduled
+54,Thrift Street,1.263,54,FELTON,3,bus,scheduled
+54,Victoria Street,1.263,54,FELTON,3,bus,scheduled
+54,Wayland Street,1.263,54,FELTON,3,bus,scheduled
+54,Dormitory Road,1.108,54,FELTON,3,bus,scheduled
+54,Mendell Street,1.108,54,FELTON,3,bus,scheduled
+54,Whitney Young Circle,1.108,54,FELTON,3,bus,scheduled
+54,274 Sagamore Street,0.715,54,FELTON,3,bus,scheduled
+54,Belle Avenue,0.715,54,FELTON,3,bus,scheduled
+54,Brazil Avenue,0.715,54,FELTON,3,bus,scheduled
+54,Egbert Avenue,0.715,54,FELTON,3,bus,scheduled
+54,Harold Avenue,0.715,54,FELTON,3,bus,scheduled
+54,Innes Avenue,0.715,54,FELTON,3,bus,scheduled
+54,Oakdale Avenue,0.715,54,FELTON,3,bus,scheduled
+54,Vesta Street,0.715,54,FELTON,3,bus,scheduled
+54,Ardath Court,0.554,54,FELTON,3,bus,scheduled
+54,Beatrice Lane,0.554,54,FELTON,3,bus,scheduled
+54,Donner Avenue,0.554,54,FELTON,3,bus,scheduled
+54,Earl Street,0.554,54,FELTON,3,bus,scheduled
+54,Harbor Road,0.554,54,FELTON,3,bus,scheduled
+54,Newcomb Avenue,0.554,54,FELTON,3,bus,scheduled
+54,Osceola Drive,0.554,54,FELTON,3,bus,scheduled
+54,Palou Avenue,0.554,54,FELTON,3,bus,scheduled
+54,Reardon Road,0.554,54,FELTON,3,bus,scheduled
+54,Thornton Drive,0.554,54,FELTON,3,bus,scheduled
+54,Venus Street,0.554,54,FELTON,3,bus,scheduled
+54,Brazil Street,0.548,54,FELTON,3,bus,scheduled
+54,Lee Street,0.548,54,FELTON,3,bus,scheduled
+54,Orizaba Avenue,0.548,54,FELTON,3,bus,scheduled
+54,Burrows Street,0.006,54,FELTON,3,bus,scheduled
+55,16th Street,39.954,55,DOGPATCH,3,bus,scheduled
+55,20th Street,20.0,55,DOGPATCH,3,bus,scheduled
+55,Connecticut Street,20.0,55,DOGPATCH,3,bus,scheduled
+55,22nd Street,16.69,55,DOGPATCH,3,bus,scheduled
+55,3rd Street,10.023,55,DOGPATCH,3,bus,scheduled
+55,Mission Street,9.977,55,DOGPATCH,3,bus,scheduled
+55,17th Street,6.667,55,DOGPATCH,3,bus,scheduled
+55,18th Street,6.667,55,DOGPATCH,3,bus,scheduled
+55,19th Street,6.667,55,DOGPATCH,3,bus,scheduled
+55,Bryant Street,6.667,55,DOGPATCH,3,bus,scheduled
+55,Iowa Street,6.667,55,DOGPATCH,3,bus,scheduled
+55,Minnesota Street,6.667,55,DOGPATCH,3,bus,scheduled
+55,Missouri Street,6.667,55,DOGPATCH,3,bus,scheduled
+55,Potrero Avenue,6.667,55,DOGPATCH,3,bus,scheduled
+55,Wisconsin Street,6.667,55,DOGPATCH,3,bus,scheduled
+55,16th St& Rhode Island Street,3.357,55,DOGPATCH,3,bus,scheduled
+55,Pennsylvania Avenue,3.357,55,DOGPATCH,3,bus,scheduled
+55,Shotwell Street,3.357,55,DOGPATCH,3,bus,scheduled
+55,Folsom Street,3.31,55,DOGPATCH,3,bus,scheduled
+55,Pennslvania Avenue,3.31,55,DOGPATCH,3,bus,scheduled
+55,Rhode Island Street,3.31,55,DOGPATCH,3,bus,scheduled
+56,Blanken Avenue,18.124,56,RUTLAND,3,bus,scheduled
+56,Rutland Street,15.7,56,RUTLAND,3,bus,scheduled
+56,Mansell Street,13.923,56,RUTLAND,3,bus,scheduled
+56,Wilde Avenue,10.479,56,RUTLAND,3,bus,scheduled
+56,Sunnydale Avenue,10.442,56,RUTLAND,3,bus,scheduled
+56,Raymond Avenue,8.383,56,RUTLAND,3,bus,scheduled
+56,Visitacion Avenue,7.317,56,RUTLAND,3,bus,scheduled
+56,Delta Street,6.287,56,RUTLAND,3,bus,scheduled
+56,Sawyer Street,5.932,56,RUTLAND,3,bus,scheduled
+56,Somerset Street,5.576,56,RUTLAND,3,bus,scheduled
+56,Leland Avenue,5.221,56,RUTLAND,3,bus,scheduled
+56,Arleta Avenue,4.537,56,RUTLAND,3,bus,scheduled
+56,San Bruno Avenue,4.537,56,RUTLAND,3,bus,scheduled
+56,Tioga Avenue,4.191,56,RUTLAND,3,bus,scheduled
+56,[UNKNOWN],3.836,56,RUTLAND,3,bus,scheduled
+56,Executive Park Boulevard,3.625,56,RUTLAND,3,bus,scheduled
+56,Gillette Avenue,3.625,56,RUTLAND,3,bus,scheduled
+56,Nueva Avenue,3.625,56,RUTLAND,3,bus,scheduled
+56,Peninsula Avenue,3.625,56,RUTLAND,3,bus,scheduled
+56,Tunnel Avenue,3.625,56,RUTLAND,3,bus,scheduled
+56,Bayshore Boulevard,3.481,56,RUTLAND,3,bus,scheduled
+56,Dartmouth Street,3.481,56,RUTLAND,3,bus,scheduled
+56,Hahn Street,3.481,56,RUTLAND,3,bus,scheduled
+56,Hamilton Street,3.481,56,RUTLAND,3,bus,scheduled
+56,50 Thomas Mellon Drive,3.279,56,RUTLAND,3,bus,scheduled
+56,356 Wilde Avenue,2.096,56,RUTLAND,3,bus,scheduled
+56,3801 San Bruno Avenue,2.096,56,RUTLAND,3,bus,scheduled
+56,Brussels Street,2.096,56,RUTLAND,3,bus,scheduled
+56,Campbell Avenue,2.096,56,RUTLAND,3,bus,scheduled
+56,Elliot Street,2.096,56,RUTLAND,3,bus,scheduled
+56,Girard Street,2.096,56,RUTLAND,3,bus,scheduled
+56,Goettingen Street,2.096,56,RUTLAND,3,bus,scheduled
+56,Alana Way,1.884,56,RUTLAND,3,bus,scheduled
+56,Thomas Mellon Circle,1.884,56,RUTLAND,3,bus,scheduled
+56,Alpha Street,1.74,56,RUTLAND,3,bus,scheduled
+56,Cora Street,1.74,56,RUTLAND,3,bus,scheduled
+56,Garrison Avenue,1.74,56,RUTLAND,3,bus,scheduled
+56,Schwerin Street,1.74,56,RUTLAND,3,bus,scheduled
+56,Thomas Mellon Drive,1.74,56,RUTLAND,3,bus,scheduled
+56,University Street,1.74,56,RUTLAND,3,bus,scheduled
+57,Font Boulevard,33.908,57,PARKMERCED,3,bus,scheduled
+57,West Portal Avenue,14.304,57,PARKMERCED,3,bus,scheduled
+57,Winston Drive,10.728,57,PARKMERCED,3,bus,scheduled
+57,Chumasero Drive,8.876,57,PARKMERCED,3,bus,scheduled
+57,Junipero Serra Boulevard,7.152,57,PARKMERCED,3,bus,scheduled
+57,Eucalyptus Drive,5.3,57,PARKMERCED,3,bus,scheduled
+57,Juan Bautista Circle,5.3,57,PARKMERCED,3,bus,scheduled
+57,Lake Merced Boulevard,5.3,57,PARKMERCED,3,bus,scheduled
+57,[UNKNOWN],5.3,57,PARKMERCED,3,bus,scheduled
+57,14th Avenue,3.576,57,PARKMERCED,3,bus,scheduled
+57,15th Avenue,3.576,57,PARKMERCED,3,bus,scheduled
+57,19th Avenue,3.576,57,PARKMERCED,3,bus,scheduled
+57,20th Avenue,3.576,57,PARKMERCED,3,bus,scheduled
+57,Alemany Boulevard,3.576,57,PARKMERCED,3,bus,scheduled
+57,Arballo Drive,3.576,57,PARKMERCED,3,bus,scheduled
+57,Arch Street,3.576,57,PARKMERCED,3,bus,scheduled
+57,Brotherhood Way,3.576,57,PARKMERCED,3,bus,scheduled
+57,Buckingham Way,3.576,57,PARKMERCED,3,bus,scheduled
+57,Cambon Drive,3.576,57,PARKMERCED,3,bus,scheduled
+57,Gonzalez Drive,3.576,57,PARKMERCED,3,bus,scheduled
+57,Mary Ward Hall,3.576,57,PARKMERCED,3,bus,scheduled
+57,Ocean Avenue,3.576,57,PARKMERCED,3,bus,scheduled
+57,Serrano Drive,3.576,57,PARKMERCED,3,bus,scheduled
+57,Sloat Boulevard,3.576,57,PARKMERCED,3,bus,scheduled
+57,Tapia Drive,3.576,57,PARKMERCED,3,bus,scheduled
+57,Ulloa Street,3.576,57,PARKMERCED,3,bus,scheduled
+57,170 Buckingham Way,1.852,57,PARKMERCED,3,bus,scheduled
+57,20th Ave/Stonestown Mall,1.852,57,PARKMERCED,3,bus,scheduled
+57,281 Buckingham Way,1.852,57,PARKMERCED,3,bus,scheduled
+57,90 Buckingham Way,1.852,57,PARKMERCED,3,bus,scheduled
+57,Juan Bautisa Circle,1.852,57,PARKMERCED,3,bus,scheduled
+57,Lake Merced Blvd/Sfsu,1.852,57,PARKMERCED,3,bus,scheduled
+57,Vicente Street,1.852,57,PARKMERCED,3,bus,scheduled
+57,190 Buckingham Way,1.724,57,PARKMERCED,3,bus,scheduled
+57,280 Buckingham Way,1.724,57,PARKMERCED,3,bus,scheduled
+57,91 Buckingham Way,1.724,57,PARKMERCED,3,bus,scheduled
+57,Alemany Street,1.724,57,PARKMERCED,3,bus,scheduled
+57,Galindo Avenue,1.724,57,PARKMERCED,3,bus,scheduled
+57,St Charles Avenue,1.724,57,PARKMERCED,3,bus,scheduled
+58,Skyline Boulevard,18.182,58,LAKE MERCED,3,bus,scheduled
+58,Brotherhood Way,13.636,58,LAKE MERCED,3,bus,scheduled
+58,Winston Drive,13.636,58,LAKE MERCED,3,bus,scheduled
+58,Lake Merced Boulevard,11.364,58,LAKE MERCED,3,bus,scheduled
+58,Buckingham Way,9.091,58,LAKE MERCED,3,bus,scheduled
+58,Lake Merced,9.091,58,LAKE MERCED,3,bus,scheduled
+58,Sloat Boulevard,6.818,58,LAKE MERCED,3,bus,scheduled
+58,Sunset Boulevard,6.818,58,LAKE MERCED,3,bus,scheduled
+58,Zoo Road,6.818,58,LAKE MERCED,3,bus,scheduled
+58,19th Avenue,4.545,58,LAKE MERCED,3,bus,scheduled
+58,20th Avenue,4.545,58,LAKE MERCED,3,bus,scheduled
+58,515 John Muir Drive,4.545,58,LAKE MERCED,3,bus,scheduled
+58,655 John Muir Avenue,4.545,58,LAKE MERCED,3,bus,scheduled
+58,Alemany Boulevard,4.545,58,LAKE MERCED,3,bus,scheduled
+58,Arch Street,4.545,58,LAKE MERCED,3,bus,scheduled
+58,Flournoy,4.545,58,LAKE MERCED,3,bus,scheduled
+58,Grace Community Church,4.545,58,LAKE MERCED,3,bus,scheduled
+58,John Muir,4.545,58,LAKE MERCED,3,bus,scheduled
+58,John Muir Drive,4.545,58,LAKE MERCED,3,bus,scheduled
+58,Lake Merced Hills Boulevard,4.545,58,LAKE MERCED,3,bus,scheduled
+58,Middlefield Drive,4.545,58,LAKE MERCED,3,bus,scheduled
+58,Mission Street,4.545,58,LAKE MERCED,3,bus,scheduled
+58,Ocean Avenue,4.545,58,LAKE MERCED,3,bus,scheduled
+58,Summit Way,4.545,58,LAKE MERCED,3,bus,scheduled
+58,[UNKNOWN],4.545,58,LAKE MERCED,3,bus,scheduled
+58,36th Avenue,2.273,58,LAKE MERCED,3,bus,scheduled
+58,Alemany Street,2.273,58,LAKE MERCED,3,bus,scheduled
+58,Amory Road,2.273,58,LAKE MERCED,3,bus,scheduled
+58,Chumasero Drive,2.273,58,LAKE MERCED,3,bus,scheduled
+58,Church Access Road,2.273,58,LAKE MERCED,3,bus,scheduled
+58,Harding Road,2.273,58,LAKE MERCED,3,bus,scheduled
+58,St Charles Avenue,2.273,58,LAKE MERCED,3,bus,scheduled
+58,Yorba Street,2.273,58,LAKE MERCED,3,bus,scheduled
+5R,Fulton Street,52.221,5R,FULTON RAPID,3,bus,scheduled
+5R,Mcallister Street,15.811,5R,FULTON RAPID,3,bus,scheduled
+5R,Market Street,14.193,5R,FULTON RAPID,3,bus,scheduled
+5R,La Playa Street,9.132,5R,FULTON RAPID,3,bus,scheduled
+5R,Cabrillo Street,6.088,5R,FULTON RAPID,3,bus,scheduled
+5R,3rd Street,3.534,5R,FULTON RAPID,3,bus,scheduled
+5R,[UNKNOWN],3.311,5R,FULTON RAPID,3,bus,scheduled
+5R,6th Avenue,3.267,5R,FULTON RAPID,3,bus,scheduled
+5R,Arguello Boulevard,3.162,5R,FULTON RAPID,3,bus,scheduled
+5R,Divisadero Street,3.162,5R,FULTON RAPID,3,bus,scheduled
+5R,Fillmore Street,3.162,5R,FULTON RAPID,3,bus,scheduled
+5R,Laguna Street,3.162,5R,FULTON RAPID,3,bus,scheduled
+5R,Masonic Avenue,3.162,5R,FULTON RAPID,3,bus,scheduled
+5R,Van Ness Avenue,3.162,5R,FULTON RAPID,3,bus,scheduled
+5R,10th Avenue,3.044,5R,FULTON RAPID,3,bus,scheduled
+5R,18th Avenue,3.044,5R,FULTON RAPID,3,bus,scheduled
+5R,22nd Avenue,3.044,5R,FULTON RAPID,3,bus,scheduled
+5R,25th Avenue,3.044,5R,FULTON RAPID,3,bus,scheduled
+5R,33rd Avenue,3.044,5R,FULTON RAPID,3,bus,scheduled
+5R,40th Avenue,3.044,5R,FULTON RAPID,3,bus,scheduled
+5R,43rd Avenue,3.044,5R,FULTON RAPID,3,bus,scheduled
+5R,46th Avenue,3.044,5R,FULTON RAPID,3,bus,scheduled
+5R,8th Avenue,3.044,5R,FULTON RAPID,3,bus,scheduled
+5R,Park Presidio Boulevard,3.044,5R,FULTON RAPID,3,bus,scheduled
+5R,1st Street,1.842,5R,FULTON RAPID,3,bus,scheduled
+5R,Beale Street,1.842,5R,FULTON RAPID,3,bus,scheduled
+5R,Mission Street,1.842,5R,FULTON RAPID,3,bus,scheduled
+5R,4th Street,1.693,5R,FULTON RAPID,3,bus,scheduled
+5R,5th Street,1.693,5R,FULTON RAPID,3,bus,scheduled
+5R,Leavenworth Street,1.693,5R,FULTON RAPID,3,bus,scheduled
+5R,Market St Between 4th,1.693,5R,FULTON RAPID,3,bus,scheduled
+5R,Market St Between 5th,1.693,5R,FULTON RAPID,3,bus,scheduled
+5R,Shrader Street,1.693,5R,FULTON RAPID,3,bus,scheduled
+5R,36th Avenue,1.575,5R,FULTON RAPID,3,bus,scheduled
+5R,Fulton S T& 28th Avenue,1.575,5R,FULTON RAPID,3,bus,scheduled
+5R,Fulton S T& 30th Avenue,1.575,5R,FULTON RAPID,3,bus,scheduled
+5R,28th Avenue,1.469,5R,FULTON RAPID,3,bus,scheduled
+5R,30th Avenue,1.469,5R,FULTON RAPID,3,bus,scheduled
+5R,37th Avenue,1.469,5R,FULTON RAPID,3,bus,scheduled
+5R,Fremont Street,1.469,5R,FULTON RAPID,3,bus,scheduled
+5R,Grant Avenue,1.469,5R,FULTON RAPID,3,bus,scheduled
+5R,Jones Street,1.469,5R,FULTON RAPID,3,bus,scheduled
+5R,Mason Street,1.469,5R,FULTON RAPID,3,bus,scheduled
+5R,Montgomery Street,1.469,5R,FULTON RAPID,3,bus,scheduled
+5R,Parker Avenue,1.469,5R,FULTON RAPID,3,bus,scheduled
+5R,Powell Street,1.469,5R,FULTON RAPID,3,bus,scheduled
+5R,Sansome Street,1.469,5R,FULTON RAPID,3,bus,scheduled
+6,Hayes Street,27.102,6,HAYES-PARNASSUS,3,bus,scheduled
+6,9th Avenue,13.874,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Parnassus Avenue,13.871,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Quintara Street,11.562,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Masonic Avenue,8.043,6,HAYES-PARNASSUS,3,bus,scheduled
+6,10th Avenue,6.937,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Clayton Street,6.937,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Frederick Street,6.937,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Judah Street,6.937,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Grove Street,5.885,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Ortega Street,4.625,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Hyde Street,3.534,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Laguna Street,3.534,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Baker Street,2.358,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Buchanan Street,2.358,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Divisadero Street,2.358,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Fillmore Street,2.358,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Gough Street,2.358,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Pierce Street,2.358,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Steiner Street,2.358,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Van Ness Avenue,2.358,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Webster Street,2.358,6,HAYES-PARNASSUS,3,bus,scheduled
+6,12th Avenue,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,14th Avenue,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,7th Avenue,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Ashbury Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Carl Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Cole Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Cragmont Avenue,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Funston Avenue,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Haight Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Kirkham Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Lawton Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Moraga Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Noriega Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Pacheco Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Shrader Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Stanyan Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Willard Street,2.312,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Oak Street,2.248,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Central Avenue,1.183,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Larkin Street,1.183,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Lyon Street,1.176,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Mcallister Street,1.176,6,HAYES-PARNASSUS,3,bus,scheduled
+6,513 Parnassus Avenue,1.158,6,HAYES-PARNASSUS,3,bus,scheduled
+6,5th Avenue,1.158,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Masonic Street,1.158,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Parnassus Ave &4th Avenue,1.158,6,HAYES-PARNASSUS,3,bus,scheduled
+6,4th Avenue,1.155,6,HAYES-PARNASSUS,3,bus,scheduled
+6,500 Parnassus Avenue,1.155,6,HAYES-PARNASSUS,3,bus,scheduled
+6,6th Avenue,1.155,6,HAYES-PARNASSUS,3,bus,scheduled
+6,Hillway Avenue,1.155,6,HAYES-PARNASSUS,3,bus,scheduled
+66,Quintara Street,35.671,66,QUINTARA,3,bus,scheduled
+66,30th Avenue,21.39,66,QUINTARA,3,bus,scheduled
+66,16th Avenue,19.787,66,QUINTARA,3,bus,scheduled
+66,Lawton Street,19.666,66,QUINTARA,3,bus,scheduled
+66,9th Avenue,8.906,66,QUINTARA,3,bus,scheduled
+66,15th Avenue,6.93,66,QUINTARA,3,bus,scheduled
+66,29th Avenue,5.397,66,QUINTARA,3,bus,scheduled
+66,Vicente Street,5.397,66,QUINTARA,3,bus,scheduled
+66,Lomita Avenue,5.319,66,QUINTARA,3,bus,scheduled
+66,Noriega Street,5.319,66,QUINTARA,3,bus,scheduled
+66,11th Avenue,3.587,66,QUINTARA,3,bus,scheduled
+66,Funston Avenue,3.587,66,QUINTARA,3,bus,scheduled
+66,Judah Street,3.587,66,QUINTARA,3,bus,scheduled
+66,Moraga Street,3.587,66,QUINTARA,3,bus,scheduled
+66,Ortega Street,3.587,66,QUINTARA,3,bus,scheduled
+66,Pacheco Street,3.587,66,QUINTARA,3,bus,scheduled
+66,Santiago Street,3.587,66,QUINTARA,3,bus,scheduled
+66,17th Avenue,3.565,66,QUINTARA,3,bus,scheduled
+66,19th Avenue,3.565,66,QUINTARA,3,bus,scheduled
+66,22nd Avenue,3.565,66,QUINTARA,3,bus,scheduled
+66,24th Avenue,3.565,66,QUINTARA,3,bus,scheduled
+66,26th Avenue,3.565,66,QUINTARA,3,bus,scheduled
+66,27th Avenue,3.565,66,QUINTARA,3,bus,scheduled
+66,28th Avenue,3.565,66,QUINTARA,3,bus,scheduled
+66,Rivera Street,3.565,66,QUINTARA,3,bus,scheduled
+66,Taraval Street,3.565,66,QUINTARA,3,bus,scheduled
+66,Ulloa Street,3.565,66,QUINTARA,3,bus,scheduled
+66,8th Avenue,1.854,66,QUINTARA,3,bus,scheduled
+66,Judah Avenue,1.854,66,QUINTARA,3,bus,scheduled
+66,Kirkham Street,1.732,66,QUINTARA,3,bus,scheduled
+66,14th Avenue,0.022,66,QUINTARA,3,bus,scheduled
+67,Folsom Street,47.149,67,BERNAL HEIGHTS,3,bus,scheduled
+67,24th Street,14.145,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Cortland Avenue,14.145,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Bernal Heights Boulevard,11.513,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Crescent Avenue,11.513,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Bradford Street,9.43,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Ripley Street,7.346,67,BERNAL HEIGHTS,3,bus,scheduled
+67,25th Street,4.715,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Cesar Chavez Street,4.715,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Ellsworth Street,4.715,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Mission Street,4.715,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Nevada Street,4.715,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Ogden Street,4.715,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Prentiss Street,4.715,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Stoneman Street,4.715,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Tompkins Street,4.715,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Van Ness Avenue,4.715,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Alabama Street,2.632,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Esmeralda Avenue,2.632,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Powhattan Avenue,2.632,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Precita Avenue,2.632,67,BERNAL HEIGHTS,3,bus,scheduled
+67,831 Ellsworth Street,2.083,67,BERNAL HEIGHTS,3,bus,scheduled
+67,909 Ellsworth Street,2.083,67,BERNAL HEIGHTS,3,bus,scheduled
+67,945 Ellsworth Street,2.083,67,BERNAL HEIGHTS,3,bus,scheduled
+67,989 Ellsworth Street,2.083,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Alemany Boulevard,2.083,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Bessie Street,2.083,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Flosom Street,2.083,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Powhattan Street,2.083,67,BERNAL HEIGHTS,3,bus,scheduled
+67,Putnam Street,2.083,67,BERNAL HEIGHTS,3,bus,scheduled
+7,Noriega Street,22.539,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Haight Street,18.616,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Market Street,18.581,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Lincoln Way,17.689,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,22nd Avenue,6.989,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,23rd Avenue,6.742,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Frederick Street,4.886,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Stanyan Street,4.886,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,48th Avenue,2.925,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,3rd Street,1.997,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,15th Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,17th Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,19th Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,21st Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,34th Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,46th Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,5th Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,5th Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,7th Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,9th Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Arguello Boulevard,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Buchanan Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Clayton Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Divisadero Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Fillmore Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Funston Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Gough Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Irving Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Judah Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Kirkham Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Lawton Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Masonic Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Moraga Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Ortega Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Pierce Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Sunset Boulevard,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Van Ness Avenue,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Willard Street,1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,[UNKNOWN],1.961,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,1st Street,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,25th Avenue,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,27th Avenue,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,29th Avenue,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,31st Avenue,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,39th Avenue,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,3rd Avenue,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,41st Avenue,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,43rd Avenue,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,4th Street,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,6th Street,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,8th Street,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,9th Street,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Beale Street,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Buena Vista East Avenue,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Market St Between 4th,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Market St Between 5th,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Mission Street,0.998,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,24th Avenue,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,28th Avenue,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,2nd Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,30th Avenue,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,38th Avenue,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,40th Avenue,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,42nd Avenue,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,44th Avenue,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Baker Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Battery Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Fremont Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Hyde Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Kearny Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Laguna Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Larkin Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Stockton Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Taylor Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+7,Waller Street,0.963,7,HAIGHT-NORIEGA,3,bus,scheduled
+714,Mission Street,50.0,714,BART EARLY BIRD,3,bus,scheduled
+714,[UNKNOWN],25.0,714,BART EARLY BIRD,3,bus,scheduled
+714,16th Street,12.5,714,BART EARLY BIRD,3,bus,scheduled
+714,24th Street,12.5,714,BART EARLY BIRD,3,bus,scheduled
+714,5th Street,12.5,714,BART EARLY BIRD,3,bus,scheduled
+714,8th Street,12.5,714,BART EARLY BIRD,3,bus,scheduled
+714,Bosworth Street,12.5,714,BART EARLY BIRD,3,bus,scheduled
+714,Diamond Street,12.5,714,BART EARLY BIRD,3,bus,scheduled
+714,Geneva Ave/Balboa Park BART,8.333,714,BART EARLY BIRD,3,bus,scheduled
+714,Geneva Avenue,4.167,714,BART EARLY BIRD,3,bus,scheduled
+714,San Jose Avenue,4.167,714,BART EARLY BIRD,3,bus,scheduled
+8,San Bruno Avenue,15.965,8,BAYSHORE,3,bus,scheduled
+8,Geneva Avenue,15.782,8,BAYSHORE,3,bus,scheduled
+8,Kearny Street,10.253,8,BAYSHORE,3,bus,scheduled
+8,Visitacion Avenue,9.814,8,BAYSHORE,3,bus,scheduled
+8,Powell Street,6.909,8,BAYSHORE,3,bus,scheduled
+8,Stockton Street,6.595,8,BAYSHORE,3,bus,scheduled
+8,Columbus Avenue,6.081,8,BAYSHORE,3,bus,scheduled
+8,4th Street,4.79,8,BAYSHORE,3,bus,scheduled
+8,Sunnydale Avenue,4.787,8,BAYSHORE,3,bus,scheduled
+8,North Point Street,4.779,8,BAYSHORE,3,bus,scheduled
+8,Bryant Street,4.194,8,BAYSHORE,3,bus,scheduled
+8,Schwerin Street,3.978,8,BAYSHORE,3,bus,scheduled
+8,Mission Street,3.97,8,BAYSHORE,3,bus,scheduled
+8,3rd Street,3.146,8,BAYSHORE,3,bus,scheduled
+8,Harrison Street,2.798,8,BAYSHORE,3,bus,scheduled
+8,Bay Street,2.097,8,BAYSHORE,3,bus,scheduled
+8,Cayuga Avenue,1.997,8,BAYSHORE,3,bus,scheduled
+8,Francisco Street,1.992,8,BAYSHORE,3,bus,scheduled
+8,Geary Boulevard,1.992,8,BAYSHORE,3,bus,scheduled
+8,Lombard Street,1.992,8,BAYSHORE,3,bus,scheduled
+8,Sutter Street,1.992,8,BAYSHORE,3,bus,scheduled
+8,Union Street,1.992,8,BAYSHORE,3,bus,scheduled
+8,1650 Geneva Avenue,1.989,8,BAYSHORE,3,bus,scheduled
+8,Bayshore Boulevard,1.989,8,BAYSHORE,3,bus,scheduled
+8,Madrid Street,1.989,8,BAYSHORE,3,bus,scheduled
+8,Naples Street,1.989,8,BAYSHORE,3,bus,scheduled
+8,Rutland Street,1.989,8,BAYSHORE,3,bus,scheduled
+8,Santos Street,1.989,8,BAYSHORE,3,bus,scheduled
+8,5th Street,1.981,8,BAYSHORE,3,bus,scheduled
+8,6th Street,1.981,8,BAYSHORE,3,bus,scheduled
+8,Arleta Avenue,1.981,8,BAYSHORE,3,bus,scheduled
+8,Bacon Street,1.981,8,BAYSHORE,3,bus,scheduled
+8,Folsom Street,1.981,8,BAYSHORE,3,bus,scheduled
+8,Geneva Ave/Balboa Park BART,1.981,8,BAYSHORE,3,bus,scheduled
+8,Howth Street,1.981,8,BAYSHORE,3,bus,scheduled
+8,Mansell Street,1.981,8,BAYSHORE,3,bus,scheduled
+8,Somerset Street,1.981,8,BAYSHORE,3,bus,scheduled
+8,[UNKNOWN],1.981,8,BAYSHORE,3,bus,scheduled
+8,Hahn Street,1.865,8,BAYSHORE,3,bus,scheduled
+8,Sawyer Street,1.865,8,BAYSHORE,3,bus,scheduled
+8,1750 Geneva Avenue,1.057,8,BAYSHORE,3,bus,scheduled
+8,Cora Street,1.057,8,BAYSHORE,3,bus,scheduled
+8,Geneva Ave&Carter Street,1.057,8,BAYSHORE,3,bus,scheduled
+8,Munich Street,1.057,8,BAYSHORE,3,bus,scheduled
+8,3801 San Bruno Avenue,1.049,8,BAYSHORE,3,bus,scheduled
+8,Broadway,1.049,8,BAYSHORE,3,bus,scheduled
+8,Bush Street,1.049,8,BAYSHORE,3,bus,scheduled
+8,California Street,1.049,8,BAYSHORE,3,bus,scheduled
+8,Clay Street,1.049,8,BAYSHORE,3,bus,scheduled
+8,Green Street,1.049,8,BAYSHORE,3,bus,scheduled
+8,Harkness Avenue,1.049,8,BAYSHORE,3,bus,scheduled
+8,Jackson Street,1.049,8,BAYSHORE,3,bus,scheduled
+8,Midway Street,1.049,8,BAYSHORE,3,bus,scheduled
+8,Paul Avenue,1.049,8,BAYSHORE,3,bus,scheduled
+8,Silver Avenue,1.049,8,BAYSHORE,3,bus,scheduled
+8,Thornton Avenue,1.049,8,BAYSHORE,3,bus,scheduled
+8,Wayland Street,1.049,8,BAYSHORE,3,bus,scheduled
+8,Filbert Street,0.944,8,BAYSHORE,3,bus,scheduled
+8,Market Street,0.944,8,BAYSHORE,3,bus,scheduled
+8,Pacific Avenue,0.944,8,BAYSHORE,3,bus,scheduled
+8,Sacramento Street,0.944,8,BAYSHORE,3,bus,scheduled
+8,Washington Street,0.944,8,BAYSHORE,3,bus,scheduled
+8,1721 Geneva Avenue,0.933,8,BAYSHORE,3,bus,scheduled
+8,3800 San Bruno Avenue,0.933,8,BAYSHORE,3,bus,scheduled
+8,Bay Shore Boulevard,0.933,8,BAYSHORE,3,bus,scheduled
+8,Bayshore Blvd &L Eland Avenue,0.933,8,BAYSHORE,3,bus,scheduled
+8,Britton Street,0.933,8,BAYSHORE,3,bus,scheduled
+8,Carter Street,0.933,8,BAYSHORE,3,bus,scheduled
+8,Dwight Street,0.933,8,BAYSHORE,3,bus,scheduled
+8,Felton Street,0.933,8,BAYSHORE,3,bus,scheduled
+8,Garrison Avenue,0.933,8,BAYSHORE,3,bus,scheduled
+8,Moscow Street,0.933,8,BAYSHORE,3,bus,scheduled
+8,Prague Street,0.933,8,BAYSHORE,3,bus,scheduled
+8,Ward Street,0.933,8,BAYSHORE,3,bus,scheduled
+8,Wilde Avenue,0.933,8,BAYSHORE,3,bus,scheduled
+8,Blanken Avenue,0.008,8,BAYSHORE,3,bus,scheduled
+8,Onondaga Avenue,0.008,8,BAYSHORE,3,bus,scheduled
+8AX,San Bruno Avenue,33.751,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Kearny Street,15.997,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Stockton Street,11.535,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,4th Street,11.184,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Bryant Street,7.823,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Harrison Street,6.921,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Pacific Avenue,6.57,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,3rd Street,5.867,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,5th Street,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,6th Street,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Arleta Avenue,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Bacon Street,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Folsom Street,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Geary Boulevard,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Geneva Street,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Mansell Street,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Mission Street,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Schwerin Street,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Somerset Street,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Sutter Street,4.263,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,3800 San Bruno Avenue,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Bayshore Boulevard,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Broadway,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Dwight Street,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Felton Street,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Grant Avenue,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Market Street,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Sacramento Street,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Ward Street,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Washington Street,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Wilde Avenue,2.307,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,3801 San Bruno Avenue,1.956,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Bush Street,1.956,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,California Street,1.956,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Clay Street,1.956,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Harkness Avenue,1.956,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Jackson Street,1.956,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Paul Avenue,1.956,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Silver Avenue,1.956,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Thornton Avenue,1.956,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8AX,Wayland Street,1.956,8AX,BAYSHORE A EXPRESS,3,bus,scheduled
+8BX,Geneva Avenue,19.046,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Kearny Street,11.918,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Visitacion Avenue,11.902,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Powell Street,8.332,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Stockton Street,8.32,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Columbus Avenue,7.148,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,4th Street,5.947,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,North Point Street,5.947,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Sunnydale Avenue,5.947,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Bryant Street,4.77,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Mission Street,4.762,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Schwerin Street,4.762,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,3rd Street,3.578,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Bayshore Boulevard,3.574,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Harrison Street,3.566,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Bay Street,2.385,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,1650 Geneva Avenue,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,5th Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,6th Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Cayuga Avenue,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Folsom Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Francisco Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Geary Boulevard,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Geneva Ave/Balboa Park BART,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Howth Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Lombard Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Madrid Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Naples Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Rutland Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Santos Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Sutter Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Union Street,2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,[UNKNOWN],2.381,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Hahn Street,2.377,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Sawyer Street,2.377,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,1750 Geneva Avenue,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Blanken Avenue,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Broadway,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Bush Street,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,California Street,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Clay Street,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Cora Street,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Geneva Ave&Carter Street,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Green Street,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Jackson Street,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Midway Street,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Munich Street,1.193,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,1721 Geneva Avenue,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Arleta Avenue,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Bay Shore Boulevard,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Bayshore Blvd &L Eland Avenue,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Britton Street,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Carter Street,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Filbert Street,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Garrison Avenue,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Market Street,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Moscow Street,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Pacific Avenue,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Prague Street,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Sacramento Street,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+8BX,Washington Street,1.189,8BX,BAYSHORE B EXPRESS,3,bus,scheduled
+9,San Bruno Avenue,22.868,9,SAN BRUNO,3,bus,scheduled
+9,Potrero Avenue,17.685,9,SAN BRUNO,3,bus,scheduled
+9,Bayshore Boulevard,16.595,9,SAN BRUNO,3,bus,scheduled
+9,Market Street,14.113,9,SAN BRUNO,3,bus,scheduled
+9,11th Street,10.106,9,SAN BRUNO,3,bus,scheduled
+9,Silver Avenue,5.079,9,SAN BRUNO,3,bus,scheduled
+9,Sunnydale Avenue,4.523,9,SAN BRUNO,3,bus,scheduled
+9,Schwerin Street,4.014,9,SAN BRUNO,3,bus,scheduled
+9,Geneva Avenue,3.519,9,SAN BRUNO,3,bus,scheduled
+9,Visitacion Avenue,2.83,9,SAN BRUNO,3,bus,scheduled
+9,Bacon Street,2.553,9,SAN BRUNO,3,bus,scheduled
+9,Mansell Street,2.553,9,SAN BRUNO,3,bus,scheduled
+9,Somerset Street,2.553,9,SAN BRUNO,3,bus,scheduled
+9,16th Street,2.526,9,SAN BRUNO,3,bus,scheduled
+9,19th Street,2.526,9,SAN BRUNO,3,bus,scheduled
+9,21st Street,2.526,9,SAN BRUNO,3,bus,scheduled
+9,24th Street,2.526,9,SAN BRUNO,3,bus,scheduled
+9,Arleta Avenue,2.526,9,SAN BRUNO,3,bus,scheduled
+9,Bryant Street,2.526,9,SAN BRUNO,3,bus,scheduled
+9,Cortland Avenue,2.526,9,SAN BRUNO,3,bus,scheduled
+9,Harrison Street,2.526,9,SAN BRUNO,3,bus,scheduled
+9,Howard Street,2.526,9,SAN BRUNO,3,bus,scheduled
+9,Mariposa Street,2.526,9,SAN BRUNO,3,bus,scheduled
+9,Paul Avenue,1.333,9,SAN BRUNO,3,bus,scheduled
+9,Thornton Avenue,1.333,9,SAN BRUNO,3,bus,scheduled
+9,Wayland Street,1.333,9,SAN BRUNO,3,bus,scheduled
+9,201 Bayshore Blvd E,1.307,9,SAN BRUNO,3,bus,scheduled
+9,25th Street,1.307,9,SAN BRUNO,3,bus,scheduled
+9,3801 San Bruno Avenue,1.307,9,SAN BRUNO,3,bus,scheduled
+9,Boutwell Street,1.307,9,SAN BRUNO,3,bus,scheduled
+9,Flower Street,1.307,9,SAN BRUNO,3,bus,scheduled
+9,Harkness Avenue,1.307,9,SAN BRUNO,3,bus,scheduled
+9,Potrero Ave&15th Street,1.307,9,SAN BRUNO,3,bus,scheduled
+9,Sf General Hospital,1.307,9,SAN BRUNO,3,bus,scheduled
+9,23rd Street,1.22,9,SAN BRUNO,3,bus,scheduled
+9,240 Bayshore Boulevard,1.22,9,SAN BRUNO,3,bus,scheduled
+9,3800 San Bruno Avenue,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Alameda Street,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Alemany Boulevard,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Augusta Street,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Division Street,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Dwight Street,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Felton Street,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Leland Avenue,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Mission Street,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Oakdale Avenue,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Ward Street,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Wilde Avenue,1.22,9,SAN BRUNO,3,bus,scheduled
+9,Woolsey Street,1.22,9,SAN BRUNO,3,bus,scheduled
+9,5th Street,1.007,9,SAN BRUNO,3,bus,scheduled
+9,7th Street,1.007,9,SAN BRUNO,3,bus,scheduled
+9,Steuart Street,1.007,9,SAN BRUNO,3,bus,scheduled
+9,Bay Shore Boulevard,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Blythdale Avenue,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Brookdale Avenue,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Castillo Street,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Cora Street,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Garrison Avenue,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Rio Verde Street,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Santos Street,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Sunnydale Avenue / Mclaren School,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Sunnyvale Avenue,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Talbert Street,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Velasco Avenue,1.003,9,SAN BRUNO,3,bus,scheduled
+9,Rutland Street,0.509,9,SAN BRUNO,3,bus,scheduled
+9,Western Access Road,0.509,9,SAN BRUNO,3,bus,scheduled
+9,1st Street,0.505,9,SAN BRUNO,3,bus,scheduled
+9,3rd Street,0.505,9,SAN BRUNO,3,bus,scheduled
+9,4th Street,0.505,9,SAN BRUNO,3,bus,scheduled
+9,6th Street,0.505,9,SAN BRUNO,3,bus,scheduled
+9,8th Street,0.505,9,SAN BRUNO,3,bus,scheduled
+9,9th Street,0.505,9,SAN BRUNO,3,bus,scheduled
+9,Beale Street,0.505,9,SAN BRUNO,3,bus,scheduled
+9,New Montgomery Street,0.505,9,SAN BRUNO,3,bus,scheduled
+9,Spear Street,0.505,9,SAN BRUNO,3,bus,scheduled
+9,2nd Street,0.502,9,SAN BRUNO,3,bus,scheduled
+9,Battery Street,0.502,9,SAN BRUNO,3,bus,scheduled
+9,Drumm Street,0.502,9,SAN BRUNO,3,bus,scheduled
+9,Hyde Street,0.502,9,SAN BRUNO,3,bus,scheduled
+9,Kearny Street,0.502,9,SAN BRUNO,3,bus,scheduled
+9,Larkin Street,0.502,9,SAN BRUNO,3,bus,scheduled
+9,Stockton Street,0.502,9,SAN BRUNO,3,bus,scheduled
+9,Taylor Street,0.502,9,SAN BRUNO,3,bus,scheduled
+9,Macdonald Avenue,0.495,9,SAN BRUNO,3,bus,scheduled
+9,W.Access Road,0.495,9,SAN BRUNO,3,bus,scheduled
+90,Van Ness Avenue,29.426,90,SAN BRUNO OWL,3,bus,scheduled
+90,San Bruno Avenue,23.077,90,SAN BRUNO OWL,3,bus,scheduled
+90,Potrero Avenue,17.949,90,SAN BRUNO OWL,3,bus,scheduled
+90,Bayshore Boulevard,12.943,90,SAN BRUNO OWL,3,bus,scheduled
+90,11th Street,8.913,90,SAN BRUNO OWL,3,bus,scheduled
+90,Silver Avenue,5.128,90,SAN BRUNO OWL,3,bus,scheduled
+90,16th Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,19th Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,21st Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,24th Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Arleta Avenue,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Bacon Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Bryant Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Chestnut Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Cortland Avenue,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Eddy Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Harrison Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Howard Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Mansell Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Mariposa Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Market Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Mcallister Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Mission Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,North Point Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Somerset Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Union Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,Vallejo Street,2.564,90,SAN BRUNO OWL,3,bus,scheduled
+90,23rd Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,240 Bayshore Boulevard,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,3800 San Bruno Avenue,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Alameda Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Alemany Boulevard,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Augusta Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Division Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Dwight Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Felton Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Jackson Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,O'Farrell Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Oakdale Avenue,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Sacramento Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Sutter Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Ward Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Wilde Avenue,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,Woolsey Street,1.343,90,SAN BRUNO OWL,3,bus,scheduled
+90,201 Bayshore Blvd E,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,25th Street,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,3801 San Bruno Avenue,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Bay Street,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Boutwell Street,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Bush Street,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Clay Street,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Flower Street,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Geary Boulevard,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Harkness Avenue,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Pacific Street,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Paul Avenue,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Potrero Ave&15th Street,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Sf General Hospital,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Thornton Avenue,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+90,Wayland Street,1.221,90,SAN BRUNO OWL,3,bus,scheduled
+91,3rd Street,16.886,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,19th Avenue,12.851,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Geneva Avenue,9.375,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Ocean Avenue,8.19,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Visitacion Avenue,6.587,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Columbus Avenue,6.143,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Lombard Street,5.193,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Stockton Street,5.193,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,4th Street,4.566,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,North Point Street,3.354,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Park Presidio Boulevard,3.294,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,West Portal Avenue,2.788,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Bayshore Boulevard,2.701,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Third Street,2.701,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Van Ness Avenue,2.344,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Cargo Way,2.196,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Mendell Street,2.196,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Mission Street,2.048,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Francisco Street,1.899,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Geary Boulevard,1.899,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Evans Avenue,1.69,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Hahn Street,1.69,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Newhall Street,1.69,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Sloat Boulevard,1.542,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Chestnut Street,1.455,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Sutter Street,1.455,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,14th Avenue,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,1650 Geneva Avenue,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,20th Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,23rd Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Aptos Avenue,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Britton Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Carroll Avenue,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Cayuga Avenue,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Geneva Ave/Balboa Park BART,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Howth Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Junipero Serra Boulevard,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Lee Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Madrid Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Marin Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Mariposa Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Miramar Avenue,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Naples Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Rutland Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,San Leandro Way,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Santos Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Sawyer Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Schwerin Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Sunnydale Avenue,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Ulloa Street,1.098,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Kearny Street,1.011,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Balboa Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Brannan Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,California Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Divisadero Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Eucalyptus Drive,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Fillmore Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Folsom Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Fulton Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Gough Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Hyde Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Irving Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Judah Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Laguna Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Lawton Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Noriega Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Ortega Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Pacific Avenue,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Pierce Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Polk Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Quintara Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Richardson Avenue,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Rivera Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Taraval Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Union Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Vicente Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Washington Street,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Winston Drive,0.95,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Bay Street,0.889,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,1721 Geneva Avenue,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Arleta Avenue,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Bay Shore Boulevard,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Bayshore Blvd &L Eland Avenue,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Bayview Street,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Berry Street,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Carter Street,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Dorado Terrace,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Fairfield Way,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Gene Friend Way,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Innes Avenue,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Kirkwood Avenue,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Mendell St Opposite Us Post Office,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Moscow Street,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Oakdale Avenue,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Paul Avenue,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Prague Street,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Salinas Avenue,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Townsend Street,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Tunnel Avenue,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Williams Avenue,0.593,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,1750 Geneva Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Blanken Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Bryant Street,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Clay Street,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Cora Street,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Fitzgerald Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Geneva Ave&Carter Street,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Hester Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Holloway Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Hudson Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Jules Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,King Street,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,La Salle Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Le Conte Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Lincoln Way,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Mason Street,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Mendell St/Us Post Office,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Munich Street,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Palou Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Park Presidio,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Revere Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Van Dyke Avenue,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Victoria Street,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Warriors Way,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,West Portal/Sloat/St Francis Circle,0.505,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Crossover Drive,0.444,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Filbert Street,0.444,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Holloway Street,0.444,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Lincoln Street,0.444,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Market Street,0.444,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Sacramento Street,0.444,91,3RD-19TH AVE OWL,3,bus,scheduled
+91,Taylor Street,0.444,91,3RD-19TH AVE OWL,3,bus,scheduled
+9R,Market Street,29.169,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Sunnydale Avenue,12.108,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,San Bruno Avenue,11.915,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Schwerin Street,10.677,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Bayshore Boulevard,9.439,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Geneva Avenue,9.439,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Potrero Avenue,8.008,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,11th Street,5.338,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,16th Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,24th Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,5th Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,7th Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Arleta Avenue,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Bacon Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Bay Shore Boulevard,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Blythdale Avenue,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Brookdale Avenue,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Castillo Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Cora Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Cortland Avenue,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Garrison Avenue,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Harrison Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Main Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Mission Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Rio Verde Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Santos Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Silver Avenue,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Sunnydale Avenue / Mclaren School,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Sunnyvale Avenue,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Talbert Street,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Velasco Avenue,2.669,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,23rd Street,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,2nd Street,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Battery Street,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Dwight Street,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Hyde Street,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Kearny Street,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Larkin Street,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Leland Avenue,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Oakdale Avenue,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Rutland Street,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Stockton Street,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Taylor Street,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Western Access Road,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Wilde Avenue,1.431,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,1st Street,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,3rd Street,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,4th Street,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,6th Street,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,8th Street,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,9th Street,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Beale Street,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Flower Street,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Harkness Avenue,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Macdonald Avenue,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,New Montgomery Street,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Paul Avenue,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Sf General Hospital,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Spear Street,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,Visitacion Avenue,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+9R,W.Access Road,1.238,9R,SAN BRUNO RAPID,3,bus,scheduled
+CA,California Street,100.0,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Davis Street,7.38,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Hyde Street,7.02,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Larkin Street,7.02,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Polk Street,7.02,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Van Ness Avenue,7.02,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Battery Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Drumm Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Front Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Grant Avenue,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Jones Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Kearny Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Leavenworth Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Mason Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Montgomery Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Powell Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Sansome Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Stockton Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+CA,Taylor Street,4.965,CA,CALIFORNIA STREET CABLE CAR,5,cable tram,scheduled
+F,Market Street,57.644,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,The Embarcadero,23.736,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Beach Street,6.839,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Stockton Street,5.115,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Noe Street,3.731,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,17th Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,5th Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,7th Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Bay Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Broadway,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Church Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Don Chee Way/Steuart Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Ferry Building,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Gough Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Green Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Greenwich Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Jones Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Sanchez Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Sansome Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Taylor Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Van Ness Avenue,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Washington Street,3.391,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Jefferson Street,3.333,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Castro Street,3.051,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,2nd Street,1.724,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Battery Street,1.724,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Buchanan Street,1.724,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Drumm Street,1.724,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Hyde Street,1.724,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Kearny Street,1.724,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Laguna Street,1.724,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Larkin Street,1.724,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Mason Street,1.724,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,1st Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,3rd Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,4th Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,6th Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,8th Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,9th Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Dolores Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Embarcadero,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Guerrero Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Main Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,New Montgomery Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+F,Powell Street,1.667,F,MARKET & WHARVES,0,tram/streetcar/light rail,scheduled
+FBUS,Market Street,56.992,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,The Embarcadero,23.467,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Jefferson Street,5.556,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Beach Street,4.502,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Stockton Street,3.927,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,17th Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,5th Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,7th Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Bay Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Broadway,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Castro Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Church Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Don Chee Way/Steuart Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Ferry Building,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Gough Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Green Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Greenwich Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Jones Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Noe Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Sanchez Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Sansome Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Taylor Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Van Ness Avenue,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Washington Street,3.352,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,1st Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,3rd Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,4th Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,6th Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,8th Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,9th Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Dolores Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Embarcadero,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Guerrero Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Main Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,New Montgomery Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Powell Street,2.778,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,2nd Street,0.575,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Battery Street,0.575,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Buchanan Street,0.575,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Drumm Street,0.575,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Hyde Street,0.575,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Kearny Street,0.575,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Laguna Street,0.575,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Larkin Street,0.575,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+FBUS,Mason Street,0.575,FBUS,MARKET & WHARVES BUS,3,bus,scheduled
+J,Church Street,36.872,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,[UNKNOWN],20.256,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,San Jose Avenue,19.283,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,30th Street,6.363,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,16th Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,22nd Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,24th Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,26th Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,28th Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Dolores Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Market Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Ocean Avenue,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Randall Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Right Of Way/20th Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Right Of Way/21st Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Right Of Way/Liberty Street,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,San Jose Ave/Glen Park Station,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Santa Rosa Avenue,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Santa Ynez Avenue,4.307,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Duboce Avenue,2.418,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,18th Street,2.251,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Day Street,2.251,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,29th Street,2.056,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Geneva Avenue,2.056,J,CHURCH,0,tram/streetcar/light rail,scheduled
+J,Right Of Way/18th Street,2.056,J,CHURCH,0,tram/streetcar/light rail,scheduled
+K,[UNKNOWN],47.095,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Ocean Avenue,35.229,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,14th Avenue,5.033,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Aptos Avenue,5.033,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Junipero Serra Boulevard,5.033,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Lee Street,5.033,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Miramar Avenue,5.033,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Ocean Ave/Ccsf Pedestrian Bridge,5.033,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,San Leandro Way,5.033,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,West Portal Avenue,5.033,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,West Portal/Sloat/St Francis Circle,5.033,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Jules Avenue,2.54,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Victoria Street,2.54,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Dorado Terrace,2.492,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Fairfield Way,2.492,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Geneva Avenue,2.492,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,San Jose Avenue,2.492,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,Folsom Street,0.086,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+K,The Embarcadero,0.086,K,INGLESIDE,0,tram/streetcar/light rail,scheduled
+KBUS,Market Street,56.349,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Ocean Avenue,22.54,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,West Portal Avenue,5.675,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Geneva Avenue,5.635,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Portola Drive,5.635,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Junipero Serra Boulevard,4.206,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Steuart Street,4.206,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,14th Avenue,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,5th Street,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,7th Street,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Aptos Avenue,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Church Street,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Clayton Street,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Gough Street,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Lee Street,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Miramar Avenue,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Mission Street,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,San Jose Avenue,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,San Leandro Way,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Sanchez Street,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Sloat Boulevard,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Ulloa Street,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Van Ness Avenue,2.817,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,1st Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,3rd Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,4th Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,6th Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,8th Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,9th Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Beale Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Castro Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Clipper Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Dolores Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Dorado Terrace,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Fairfield Way,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Guerrero Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,New Montgomery Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Noe Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,O'Shaughnessy Boulevard,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Spear Street,1.429,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,16th Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,17th Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,2nd Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Battery Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Buchanan Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Burnett Avenue,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Claremont Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Drumm Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Hyde Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Jules Avenue,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Kearny Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Laguna Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Larkin Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Stockton Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Taylor Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Victoria Street,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,West Portal/Sloat/St Francis Circle,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+KBUS,Woodside Avenue,1.389,KBUS,INGLESIDE BUS,3,bus,scheduled
+L,Taraval Street,47.386,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,[UNKNOWN],34.762,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,46th Avenue,12.924,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,Ulloa Street,9.061,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,14th Avenue,4.308,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,19th Avenue,4.308,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,26th Avenue,4.308,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,30th Avenue,4.308,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,32nd Avenue,4.308,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,40th Avenue,4.308,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,42nd Avenue,4.308,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,44th Avenue,4.308,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,Sunset Boulevard,4.308,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,Vicente Street,4.308,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,15th Avenue,2.164,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,23rd Avenue,2.164,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,47th Avenue,2.164,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,Cutler Avenue,2.164,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,17th Avenue,2.144,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,22nd Avenue,2.144,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,Wawona/46th Ave /Sf Zoo,2.144,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,Lenox Way,0.25,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,West Portal Avenue,0.195,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,Folsom Street,0.175,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+L,The Embarcadero,0.175,L,TARAVAL,0,tram/streetcar/light rail,scheduled
+LOWL,Market Street,31.42,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,The Embarcadero,19.777,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Taraval Street,19.357,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Beach Street,6.792,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Ulloa Street,6.452,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Woodside Avenue,5.681,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,46th Avenue,5.611,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Portola Drive,4.839,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Stockton Street,3.597,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Bay Street,2.825,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Broadway,2.825,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Ferry Building,2.825,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Green Street,2.825,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Greenwich Street,2.825,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Jones Street,2.825,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Sansome Street,2.825,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Washington Street,2.825,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Mason Street,1.983,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Jefferson Street,1.684,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,15th Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,19th Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,26th Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,30th Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,32nd Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,40th Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,42nd Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,44th Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,5th Street,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,7th Street,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Church Street,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Clayton Street,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Don Chee Way/Steuart Street,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Forest Side Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Glenview Drive,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Gough Street,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Hernandez Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Sanchez Street,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Sunset Boulevard,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Taylor Street,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Van Ness Avenue,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Vicente Street,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Wawona/46th Ave /Sf Zoo,1.613,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,17th Avenue,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,1st Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,22nd Avenue,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,3rd Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,4th Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,6th Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,8th Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,9th Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Balceta Avenue,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Beale Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Castro Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Clipper Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Dolores Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Embarcadero,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Guerrero Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,New Montgomery Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Noe Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Powell Street,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,West Portal Avenue,0.842,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,120 Portola Drive,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,16th Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,17th Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,23rd Avenue,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,2nd Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,6 Portola Drive,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Battery Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Buchanan Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Burnett Avenue,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Drumm Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Hyde Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Kearny Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Laguna Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Larkin Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Lenox Way,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+LOWL,Steuart Street,0.771,LOWL,OWL TARAVAL,3,bus,scheduled
+M,[UNKNOWN],32.47,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,19th Avenue,16.297,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Randolph Street,14.31,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,San Jose Avenue,13.952,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Broad Street,12.223,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,West Portal Avenue,4.353,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,14th Avenue,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Arch Street,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Bright Street,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Capitol Avenue,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Farallones Street,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Holloway Avenue,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Lakeview Avenue,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Orizaba Avenue,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Plymouth Avenue,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Right Of Way/Eucalyptus Drive,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Right Of Way/Ocean Avenue,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,West Portal/Sloat/St Francis Circle,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Winston Drive,4.074,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Geneva Avenue,3.717,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Niagra Avenue,2.087,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Junipero Serra Boulevard,1.988,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Ulloa Street,0.476,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Lenox Way,0.198,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,Folsom Street,0.135,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+M,The Embarcadero,0.135,M,OCEAN VIEW,0,tram/streetcar/light rail,scheduled
+N,Judah Street,41.9,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,[UNKNOWN],18.272,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Carl Street,8.979,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Irving Street,8.979,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,King Street,8.686,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,The Embarcadero,8.686,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,9th Avenue,4.498,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,2nd Street,4.343,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,4th Street,4.343,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Brannan Street,4.343,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Folsom Street,4.343,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,12th Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,19th Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,25th Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,28th Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,31st Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,34th Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,40th Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,43rd Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,46th Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Church Street,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Cole Street,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Duboce Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Funston Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Hillway Avenue,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Stanyan Street,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Sunset Boulevard,2.993,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,16th Avenue,1.505,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,23rd Avenue,1.505,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,2nd Avenue,1.505,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,6th Avenue,1.505,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Duboce St/Noe St/Duboce Park,1.505,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,15th Avenue,1.488,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,22nd Avenue,1.488,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,5th Avenue,1.488,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,8th Avenue,1.488,N,JUDAH,0,tram/streetcar/light rail,scheduled
+N,Arguello Boulevard,1.488,N,JUDAH,0,tram/streetcar/light rail,scheduled
+NBUS,Market Street,35.013,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Judah Street,32.679,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Carl Street,7.003,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Irving Street,7.003,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,5th Street,4.668,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Duboce Avenue,4.668,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,The Embarcadero,4.668,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Townsend Street,4.668,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,2nd Street,3.315,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,9th Avenue,3.315,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,[UNKNOWN],3.315,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,12th Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,19th Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,25th Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,28th Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,31st Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,34th Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,40th Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,43rd Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,46th Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,4th Street,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,7th Street,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Church Street,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Cole Street,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Folsom Street,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Funston Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Gough Street,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Hillway Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,King Street,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Noe Street,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Stanyan Street,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Steuart Street,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Sunset Boulevard,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Van Ness Avenue,2.334,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,15th Avenue,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,1st Street,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,22nd Avenue,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,3rd Street,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,5th Avenue,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,6th Street,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,8th Avenue,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,8th Street,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,9th Street,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Arguello Boulevard,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Beale Street,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Dolores Street,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Guerrero Street,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,New Montgomery Street,1.353,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,16th Avenue,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,23rd Avenue,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,2nd Avenue,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,6th Avenue,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Battery Street,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Brannan Street,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Buchanan Street,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Drumm Street,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Hyde Street,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Kearny Street,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Laguna Street,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Larkin Street,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Stockton Street,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NBUS,Taylor Street,0.981,NBUS,JUDAH BUS,3,bus,scheduled
+NOWL,Market Street,27.843,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Judah Street,26.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Haight Street,13.462,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Carl Street,5.769,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Cole Street,5.769,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Irving Street,5.769,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,The Embarcadero,4.766,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,5th Street,3.846,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Fillmore Street,3.846,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Townsend Street,3.846,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,2nd Street,2.926,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,9th Avenue,2.926,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,[UNKNOWN],2.926,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Steuart Street,2.843,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,12th Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,19th Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,25th Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,28th Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,31st Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,34th Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,40th Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,43rd Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,46th Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,4th Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,7th Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Church Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Clayton Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Divisadero Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Duboce Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Folsom Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Funston Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Gough Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Hermann Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Hillway Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,King Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Masonic Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Pierce Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Stanyan Street,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Sunset Boulevard,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Van Ness Avenue,1.923,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,16th Avenue,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,23rd Avenue,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,2nd Avenue,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,6th Avenue,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Baker Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Battery Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Brannan Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Buchanan Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Don Chee Way/Steuart Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Drumm Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Frederick Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Hyde Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Kearny Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Laguna Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Stockton Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Taylor Street,1.003,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,15th Avenue,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,1st Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,22nd Avenue,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,3rd Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,5th Avenue,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,6th Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,8th Avenue,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,8th Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,9th Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Arguello Boulevard,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Beale Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Buena Vista East Avenue,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Dolores Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Guerrero Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Howard Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Mission Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,New Montgomery Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+NOWL,Waller Street,0.92,NOWL,OWL JUDAH,3,bus,scheduled
+PH,Hyde Street,45.581,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Powell Street,38.372,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Jackson Street,12.625,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Washington Street,10.417,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Mason Street,5.528,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Bay Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Beach Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Broadway,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Chestnut Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Filbert Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Green Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Greenwich Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Jones Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Leavenworth Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Lombard Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,North Point Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Pacific Avenue,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Taylor Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Union Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Vallejo Street,3.506,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Bush Street,3.488,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,California Street,3.488,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Clay Street,3.488,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Geary Boulevard,3.488,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Market Street,3.488,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,O'Farrell Street,3.488,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Pine Street,3.488,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Post Street,3.488,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Sacramento Street,3.488,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PH,Sutter Street,3.488,PH,POWELL-HYDE CABLE CAR,5,cable tram,scheduled
+PM,Powell Street,47.14,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Mason Street,37.568,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Columbus Avenue,8.75,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Taylor Street,8.75,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Jackson Street,6.631,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Washington Street,4.597,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Bay Street,4.375,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Broadway,4.375,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Chestnut Street,4.375,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Filbert Street,4.375,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Green Street,4.375,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Greenwich Street,4.375,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Pacific Avenue,4.375,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Union Street,4.375,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Vallejo Street,4.375,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Bush Street,4.285,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,California Street,4.285,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Clay Street,4.285,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Geary Boulevard,4.285,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Market Street,4.285,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,O'Farrell Street,4.285,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Pine Street,4.285,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Post Street,4.285,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Sacramento Street,4.285,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Sutter Street,4.285,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Francisco Street,2.166,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+PM,Lombard Street,2.166,PM,POWELL-MASON CABLE CAR,5,cable tram,scheduled
+T,Third Street,37.362,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,[UNKNOWN],11.607,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Bayshore Boulevard,9.782,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Evans Avenue,5.186,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Marin Street,5.186,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Third Street/Hudson/Innes,5.186,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Third Street/Kirkwood/La Salle,5.186,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Third Street/Oakdale/Palou,5.186,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Third Street/Revere/Shafter,5.186,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Williams Avenue,5.186,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Carroll Avenue,4.891,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Le Conte Avenue,4.891,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Sunnydale Avenue,4.891,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Third Street/Gilman/Paul,4.891,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,20th Street,4.007,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,23rd Street,4.007,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,4th Street,4.007,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,King Street,4.007,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Mission Rock Street,4.007,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Ucsf / Chase Center,4.007,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Areta Avenue,2.496,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Blanken Avenue,2.395,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Brannan Northbound,1.906,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Fourth Street,1.906,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Union Square/Market St Station Northbound,1.906,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,4th,1.894,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Brannan Southbound,1.894,T,THIRD,0,tram/streetcar/light rail,scheduled
+T,Union Square/Market St Station Southbound,1.894,T,THIRD,0,tram/streetcar/light rail,scheduled
+TBUS,3rd Street,48.418,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Bayshore Boulevard,22.842,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Visitacion Avenue,12.089,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,4th Street,8.708,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Third Street,8.551,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Carroll Avenue,8.237,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Stockton Street,4.699,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Arleta Avenue,4.385,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Bay Shore Boulevard,4.385,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Paul Avenue,4.385,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Salinas Avenue,4.385,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Williams Avenue,4.385,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Blanken Avenue,3.852,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Fitzgerald Avenue,3.852,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Hester Avenue,3.852,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Le Conte Avenue,3.852,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Tunnel Avenue,3.049,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Third,2.839,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Underwood,2.839,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,20th Street,2.35,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,23rd Street,2.35,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Brannan Street,2.35,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Evans Avenue,2.35,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Folsom Street,2.35,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Geary Boulevard,2.35,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Marin Street,2.35,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Mariposa Street,2.35,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Washington Street,2.35,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Bayview Street,1.336,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Berry Street,1.336,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Gene Friend Way,1.336,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Innes Avenue,1.336,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Kirkwood Avenue,1.336,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Market Street,1.336,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Oakdale Avenue,1.336,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Hudson Avenue,1.013,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Kearny Street,1.013,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,King Street,1.013,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,La Salle Avenue,1.013,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Palou Avenue,1.013,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Revere Avenue,1.013,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Sutter Street,1.013,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Warriors Way,1.013,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Pacific Avenue,0.894,TBUS,THIRD BUS,3,bus,scheduled
+TBUS,Powell Street,0.894,TBUS,THIRD BUS,3,bus,scheduled
